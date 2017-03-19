@@ -1,19 +1,3 @@
-/*
- *
- * This program is free software: you can redistribute it and/or modify
- * it under the terms of the GNU General Public License as published by
- * the Free Software Foundation, either version 3 of the License, or
- * (at your option) any later version.
- *
- * This program is distributed in the hope that it will be useful,
- * but WITHOUT ANY WARRANTY; without even the implied warranty of
- * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- * GNU General Public License for more details.
- *
- * You should have received a copy of the GNU General Public License
- * along with this program.  If not, see <http://www.gnu.org/licenses/>.
- */
-
 /* 
  * File:   main.cpp
  * Author: Jônathan Elias Sousa da Costa
@@ -28,7 +12,7 @@
 using namespace std;
 
 int uso(){
-    cout << "USO: signalSender PID SIGNAL\n" << endl;
+    cout << "USO: signalsender PID SIGNAL\n" << endl;
     cout << "PID -> número do processo (atribuído pelo SO) que receberá o sinal" << endl;
     cout << "SIGNAL -> sinal a ser enviado para o processo, dentre os disponíveis:" << endl;
     cout << "\t\tSIGUSR1, SIGUSR2 e SIGTERM" << endl;
