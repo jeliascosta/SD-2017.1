@@ -14,12 +14,23 @@
 #include <sstream>
 #include <iomanip>
 #include <cstring>
+#include <cmath>
 
 #define IN 0
 #define OUT 1
 #define intFIX 20
 
 using namespace std;
+
+bool checkPrime(long int li){
+    if (li < 1) return false;
+    if (li == 1 || li == 2 || li == 3) return true;
+    long int root = sqrt(li), i = 1;
+    bool isPrime = true;
+    //Se, para um número real > 1 não encontarmos divisores maiores que 1 e menores que sua raiz, tal número é primo.
+    while (( ++i < root) && isPrime) if ((li % i) == 0) isPrime = false;
+    return isPrime;
+}
 
 //Filho lê números do pipe e imprime
 void printPipe (int pipeFile) {
@@ -37,13 +48,15 @@ void printPipe (int pipeFile) {
 
   while (strcmp(str,zero) != 0){
     fread(str,1,intFIX,pipeStream);
-    str[intFIX]='\0';puts(str);
+    str[intFIX]='\0';
+    long int li = strtol(str,NULL,10);
+    cout << "String recebida: " << str << ", que é o número "<< li << ". É primo? " << boolalpha << checkPrime(li) << endl;
   }
   cout << "ACHEI O ZERO!" << endl;
   fclose (pipeStream);
 }
 
-string intFixStr(int n){ //provavelmente existe uma forma MAIS RÁPIDA do que ss, em C.
+string intFixStr(int n){ //provavelmente existe uma forma MAIS RÁPIDA (mais baixo nível) do que ss, em C.
     stringstream ss;
     string str;
     ss << setw(intFIX) << setfill('0') << n;
