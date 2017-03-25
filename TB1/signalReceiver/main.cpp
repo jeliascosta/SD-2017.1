@@ -28,7 +28,7 @@ int uso(){
     cout << "USO: signalreceiver WAITING_TYPE\n" << endl;
     cout << "WAITING_TYPE -> especifica a forma como o processo aguardará pelos sinais:" << endl;
     cout << "\t\tBUSY ou BLOCK" << endl;
-    return 1; //valor de retorno para main deve ser código de erro (>0), indicando mal funcionamento do código do processo
+    return EXIT_FAILURE; //valor de retorno para main deve ser código de erro (>0), indicando mal funcionamento do código do processo
 }
 
 

@@ -16,7 +16,7 @@ int uso(){
     cout << "PID -> número do processo (atribuído pelo SO) que receberá o sinal" << endl;
     cout << "SIGNAL -> sinal a ser enviado para o processo, dentre os disponíveis:" << endl;
     cout << "\t\tSIGUSR1, SIGUSR2 e SIGTERM" << endl;
-    return 1; //valor de retorno para main deve ser código de erro (>0), indicando mal funcionamento do código do processo
+    return EXIT_FAILURE; //valor de retorno para main deve ser código de erro (>0), indicando mal funcionamento do código do processo
 }
 
 /*
