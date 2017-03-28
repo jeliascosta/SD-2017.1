@@ -1,11 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <string.h>
-#include <stdio.h>
 #include <string.h>    //strlen
 #include <string>
 #include <sys/socket.h>
 #include <arpa/inet.h> //inet_addr
+#include <netinet/in.h>
 #include <unistd.h>    //write
 #include <cmath>
 #include <cstring>
@@ -35,29 +34,28 @@ int main(int argc , char *argv[])
 		puts("Digite a quantidade de números aleatórios a serem gerados!");
 		return 1;
 	}
-	
+
     int socket_desc , client_sock , c , read_size;
     struct sockaddr_in server , client;
     char client_message[2000], resposta[2000];
 
     //Criar socket
-    socket_desc = socket(AF_INET , SOCK_STREAM , 0);
-    if (socket_desc == -1)
-    {
+    socket_desc = socket(PF_INET , SOCK_STREAM , 0);
+    if (socket_desc < 0){
         printf("Socket não pode ser criado");
     }
     puts("Socket Criado");
 
     //Prepare the sockaddr_in structure
     server.sin_family = AF_INET;
-    server.sin_addr.s_addr = INADDR_ANY;
+    server.sin_addr.s_addr = htonl (INADDR_ANY);
     server.sin_port = htons( 8888 );
 
     //Bind
-    if( bind(socket_desc,(struct sockaddr *)&server , sizeof(server)) < 0)
+    if(::bind(socket_desc,(struct sockaddr *) &server , sizeof(server)) < 0)
     {
         perror("bind failed. Error");
-        return 1;
+        // return 1;
     }
     puts("bind done");
 
@@ -93,7 +91,7 @@ int main(int argc , char *argv[])
     //2: garantir a finitude do loop
     //A cada iteração o loop é obrigado a quebrar somente quando o número retornado é maior que o anterior.
     //O intervalo de números a escolher varia sempre do número atual até o delta mais próximo.
-    //Isso é garantido ao tomar o módulo j (delta). 
+    //Isso é garantido ao tomar o módulo j (delta).
     for (i = 0, j = delta; i < n; i++, j += delta){
         while(currRand <= lastRand) currRand = rand() % j;
         lastRand = currRand;

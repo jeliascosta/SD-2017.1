@@ -1,17 +1,6 @@
 #include <iostream>
 #include <sstream>
 #include <iomanip>
-
-// #include <cstdlib>
-// #include <cstdio>
-// #include <sys/types.h>
-// #include <unistd.h>
-// #include <time.h>
-// #include <sstream>
-// #include <iomanip>
-// #include <cstring>
-// #include <cmath>
-
 #include <string.h>    //strlen
 #include <sys/socket.h>
 #include <arpa/inet.h> //inet_addr
@@ -43,28 +32,28 @@ int main(int argc , char *argv[])
 {
     int sock, numbers;
     struct sockaddr_in server;
-    char message[intFIX+1] , server_reply[intFIX+1]; //intFIX posições + '\0' ("terminação" de string) 
+    char message[intFIX+1] , server_reply[intFIX+1]; //intFIX posições + '\0' ("terminação" de string)
 
     //Create socket
-    sock = socket(AF_INET , SOCK_STREAM , 0);
+    sock = socket(PF_INET , SOCK_STREAM , 0);
     if (sock == -1)
     {
-        printf("Could not create socket");
+        printf("Erro ao criar socket");
     }
-    puts("Socket created");
+    puts("Socket criado");
 
-    server.sin_addr.s_addr = inet_addr("127.0.0.1");
-    server.sin_family = AF_INET;
+    server.sin_addr.s_addr = INADDR_ANY;
+    server.sin_family = PF_INET;
     server.sin_port = htons( 8888 );
 
     //Connect to remote server
     if (connect(sock , (struct sockaddr *)&server , sizeof(server)) < 0)
     {
-        perror("connect failed. Error");
+        perror("Falha ao conectar. Error");
         return 1;
     }
 
-    puts("Connected");
+    puts("Conectado!");
 
     long int li = -1;
 
@@ -80,17 +69,17 @@ int main(int argc , char *argv[])
             break;
         }
 
-		server_reply[intFIX] = '\0'; //garantindo término de string
+		    server_reply[intFIX] = '\0'; //garantindo término de string
         li = strtol(server_reply,NULL,10); //convertendo de string para long int
-        
+
         printf("String recebida: %s, que equivale ao número %ld\n",server_reply,li);
         memset(server_reply, 0, sizeof server_reply);
-        
+
         //Send some data
         string ehPrimo;
         if (checkPrime(li)) ehPrimo = "O número É PRIMO.";
         else ehPrimo = "O número NÃO É primo.";
-        
+
         if( send(sock , ehPrimo.c_str() , ehPrimo.length() , 0) < 0)
         {
             puts("Send failed");
