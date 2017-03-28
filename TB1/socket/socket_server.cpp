@@ -12,6 +12,7 @@
 #include <sstream>
 #include <cstdio>
 #include <cstdlib>
+#include <iomanip>
 
 #define IN 0
 #define OUT 1
@@ -20,19 +21,21 @@
 using namespace std;
 
 
-//Função para checar se o número é primo
-bool checkPrime(long int li){
-    if (li < 1) return false;
-    if (li == 1 || li == 2 || li == 3) return true;
-    long int root = sqrt(li), i = 1;
-    bool isPrime = true;
-    //Se, para um número real > 1 não encontarmos divisores maiores que 1 e menores que sua raiz, tal número é primo.
-    while (( ++i < root) && isPrime) if ((li % i) == 0) isPrime = false;
-    return isPrime;
+string intFixStr(int n){ //provavelmente existe uma forma MAIS RÁPIDA (mais baixo nível) do que ss, em C.
+    stringstream ss;
+    string str;
+    ss << setw(intFIX) << setfill('0') << n;
+    str = ss.str();
+    return str;
 }
 
 int main(int argc , char *argv[])
 {
+	if(argc!=2){
+		puts("Digite a quantidade de números aleatórios a serem gerados!");
+		return 1;
+	}
+	
     int socket_desc , client_sock , c , read_size;
     struct sockaddr_in server , client;
     char client_message[2000], resposta[2000];
@@ -65,7 +68,7 @@ int main(int argc , char *argv[])
     puts("Aguardando conexões...");
     c = sizeof(struct sockaddr_in);
 
-    //Aceitar conexão de um determinado cliente
+    //Aceitar conexão de um determinado cliente, ou seja, do consumidor
     client_sock = accept(socket_desc, (struct sockaddr *)&client, (socklen_t*)&c);
     if (client_sock < 0)
     {
@@ -74,15 +77,38 @@ int main(int argc , char *argv[])
     }
     puts("Conexão feita");
 
-    //Recebe mensagem de um cliente
-    while( (read_size = recv(client_sock , client_message , 2000 , 0)) > 0 )
-    {
-        //Envia uma mensagem de volta ao cliente
-        write(client_sock , client_message , strlen(client_message));
-        puts("Recebido do cliente: ");
+
+    int lastRand = 0, currRand = -1;
+
+    srand(time(NULL)); //Inicializar biblioteca random com semente única à instância do processo
+
+	int n =atoi(argv[1]); //precisamos do número de números aleatórios
+
+    int i, j;
+    int delta = RAND_MAX / n;
+    string str;
+    //Bolei uma forma de obter aleatórios crescentes, como pedido no enunciado.
+    //Me baseei nos seguintes requisitos:
+    //1: impedir o algoritmo de obter RAND_MAX nas primeiras n-1 iterações
+    //2: garantir a finitude do loop
+    //A cada iteração o loop é obrigado a quebrar somente quando o número retornado é maior que o anterior.
+    //O intervalo de números a escolher varia sempre do número atual até o delta mais próximo.
+    //Isso é garantido ao tomar o módulo j (delta). 
+    for (i = 0, j = delta; i < n; i++, j += delta){
+        while(currRand <= lastRand) currRand = rand() % j;
+        lastRand = currRand;
+		if ((write(client_sock , intFixStr(currRand).c_str() , intFIX+1) > 0))
+		 puts("Número enviado!");
+		else return 1;
+        //Aguarda uma mensagem de volta do consumidor cliente
+        read_size = recv(client_sock , client_message , 25 , 0);
+        puts("Recebido do consumidor: ");
         puts(client_message);
+        puts("");
         memset(client_message, 0, sizeof client_message); //limpa o buffer de entrada
     }
+    str = intFixStr(0);
+
     if(read_size == 0)
     {
         puts("Cliente desconectado...");
