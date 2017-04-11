@@ -1,30 +1,39 @@
 #include <iostream>
 #include <pthread.h>
+#include <stdio.h>
 
 using namespace std;
 
-void *print(void*){
-  cout << "Thread" << endl;
+#define NUM 10
+
+void *print(void *thread_id){
+  printf("sou a thread %d\n", thread_id);
+  pthread_exit(NULL);
 }
 
-void *consumidor(void*){
+void *consumidor(pthread_t *thread){//Recebe como parâmetro uma referência para a thread e para a memória compartilhada
 
 }
 
-void *produtor(void*){
-  
+void *produtor(pthread_t *thread){//Recebe como parâmetro uma referência para a thread e para a memória compartilhada
+
 }
 
-int main(int argc, char *argv[]){
-  cout << "Hello World" << endl;
+int main(int Np, char *args[]){
   cout << "thread principal" << endl;
 
-  pthread_t t1;
-  pthread_create(&t1, NULL, &print, NULL);
-  void* result;
-  pthread_join(t1, &result);
-  cout << "novamente na thread principal" << endl;
+  // Inicializa as threads
+  pthread_t thread;
+  int erro;
+  int id_thread, t;
 
-
+  for(t = 0; t < NUM; t++){
+    printf("Criando thread %d\n", t);
+    if(erro = pthread_create(&thread, NULL, print, (void *)t)){
+      printf("Erro número %d\n", erro);
+      exit(-1);
+    }
+  }
+  pthread_exit(NULL);
   return 0;
 }
