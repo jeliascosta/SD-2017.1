@@ -1,3 +1,6 @@
+// Para compilar o programa, utilizar a versão 11 do c++
+//Comando: g++ -std=c++11 main.cpp
+
 #include <iostream>
 #include <atomic>
 #include <stdlib.h>
@@ -8,7 +11,7 @@
 
 #define TRUE 1
 #define FALSE 0
-#define NUM_THREADS 256
+#define NUM_THREADS 1
 #define N 10000000 //Tamanho do array
 
 using namespace std;
@@ -30,13 +33,12 @@ void release(){
 void generate_buffer(){
   int sum = 0;
   for(int i = 0; i < N; i++){
-    int random = rand() % 10;
+    int random = rand() % 201 + (-100);
     buffer[i] = random;
   }
 
   for(int i = 0; i < N; i++){
     sum += buffer[i];
-    cout << buffer[i] << " ";
   }
   cout << endl;
   cout << "soma: " << sum;
