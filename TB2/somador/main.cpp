@@ -80,14 +80,17 @@ int main(int argc, char *argv[]){
   int num_vezes = 0;
   float avarage_time_chrono = 0;
   float avarage_time_posix = 0;
+  int potencia;
   cout << "===================== Somador com threads =====================" << endl;
   cout << endl;
-  cout << "Entre com o número de elementos: ";
-  cin >> N;
+  cout << "Entre com o número de zeros: ";
+  cin >> potencia;
   cout << endl;
   cout << "Entre com o número de threads: ";
   cin >> NUM_THREADS;
-
+  N = pow(10, potencia);
+  cout << "\ntamanho do array: " << N << endl;
+  cout << "\nnúmero de threads: " << NUM_THREADS << endl;
   while(num_vezes < 10){
     cout << "\n\n======== Programa rodando pela " << num_vezes+1 << "º vez ========" << endl;
     buffer = (int *)malloc(N * sizeof(int));
@@ -130,7 +133,9 @@ int main(int argc, char *argv[]){
     num_vezes++;
     acumulador = 0;
   }
-  cout << "\n\ntempo médio chrono: " << avarage_time_chrono/10 << endl;
+  cout << "\ntamanho do array: " << N << endl;
+  cout << "\nnúmero de threads: " << NUM_THREADS << endl;
+  cout << "\ntempo médio chrono: " << avarage_time_chrono/10 << endl;
   cout << "\ntempo médio Posix: " << avarage_time_posix/10 << endl;
 
   return 0;
