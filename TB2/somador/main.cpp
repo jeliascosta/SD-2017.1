@@ -8,8 +8,8 @@
 
 #define TRUE 1
 #define FALSE 0
-#define NUM_THREADS 3
-#define N 10 //Tamanho do array
+#define NUM_THREADS 256
+#define N 10000000 //Tamanho do array
 
 using namespace std;
 
@@ -28,27 +28,36 @@ void release(){
 }
 
 void generate_buffer(){
+  int sum = 0;
   for(int i = 0; i < N; i++){
     int random = rand() % 10;
     buffer[i] = random;
   }
 
   for(int i = 0; i < N; i++){
+    sum += buffer[i];
     cout << buffer[i] << " ";
   }
+  cout << endl;
+  cout << "soma: " << sum;
 }
 
 void* somador(void *ID){
   int id  = (intptr_t)ID;
   int soma_local = 0;
   // Dividir o array
-  int offset = N%NUM_THREADS;
+  int offset = N%NUM_THREADS; // 1
   int chunks = floor(N/NUM_THREADS);
   int start =id*chunks;
-  int end = ((id+1)*chunks);  
+  int end = ((id+1)*chunks);
+
+  if((N-end) <= chunks){
+    end = end+offset;
+  }
   for(int i = start; i < end; i++){
     soma_local += buffer[i];
   }
+
   acquire();
   acumulador += soma_local;
   release();
