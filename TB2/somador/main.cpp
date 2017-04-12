@@ -17,9 +17,6 @@
 #include <math.h>
 #include <chrono>
 
-// #define NUM_THREADS 1 //Número de threads
-// #define N 10000000 //Tamanho do array
-
 using namespace std;
 
 // Variáveis globais
@@ -52,7 +49,7 @@ void generate_buffer(){
   }
   cout << endl;
   // Salva o valor da soma para conferência de corretude do programa
-  cout << "soma: " << sum;
+  cout << "soma serial: " << sum;
 }
 
 // Função usada por cada thread para somar seus números
@@ -80,6 +77,9 @@ void* somador(void *ID){
 }
 
 int main(int argc, char *argv[]){
+  int num_vezes = 0;
+  float avarage_time_chrono = 0;
+  float avarage_time_posix = 0;
   cout << "===================== Somador com threads =====================" << endl;
   cout << endl;
   cout << "Entre com o número de elementos: ";
@@ -88,41 +88,50 @@ int main(int argc, char *argv[]){
   cout << "Entre com o número de threads: ";
   cin >> NUM_THREADS;
 
-  buffer = (int *)malloc(N * sizeof(int));
-  if(buffer == NULL){
-    cout << "Falha ao alocar memória" << endl;
-    return EXIT_FAILURE;
+  while(num_vezes < 10){
+    cout << "\n\n======== Programa rodando pela " << num_vezes+1 << "º vez ========" << endl;
+    buffer = (int *)malloc(N * sizeof(int));
+    if(buffer == NULL){
+      cout << "Falha ao alocar memória" << endl;
+      return EXIT_FAILURE;
+    }
+    generate_buffer();
+
+    srand(time(NULL));
+    // Cria N threads
+    struct timespec start, finish;
+    double elapsed;
+
+    clock_gettime(CLOCK_MONOTONIC, &start);
+    auto begin = chrono::high_resolution_clock::now();
+
+    pthread_t Threads[NUM_THREADS];
+    for(int i = 0; i < NUM_THREADS; i++){
+      pthread_create(&Threads[i], NULL, somador, (void *)i);
+    }
+
+    for(int i = 0; i < NUM_THREADS; i++){
+      pthread_join(Threads[i], NULL);
+    }
+
+    auto end = chrono::high_resolution_clock::now();
+
+    clock_gettime(CLOCK_MONOTONIC, &finish);
+
+    cout.flush();
+    cout << "\n\nTempo de execução pela C++11 chrono:\t" << chrono::duration_cast<chrono::nanoseconds>(end-begin).count() << "ns" << endl;
+
+    elapsed = ((finish.tv_sec - start.tv_sec) + (finish.tv_nsec - start.tv_nsec) / 1000000000.0) * (1000000000);
+    cout << "\nTempo de execução pela POSIX time:\t" << elapsed << "ns" << endl;
+
+    cout << "\nsoma final com threads: " << acumulador << endl;
+    avarage_time_chrono += (float)chrono::duration_cast<chrono::nanoseconds>(end-begin).count();
+    avarage_time_posix += (float)elapsed;
+    num_vezes++;
+    acumulador = 0;
   }
-  generate_buffer();
-
-  srand(time(NULL));
-  // Cria N threads
-  struct timespec start, finish;
-  double elapsed;
-
-  clock_gettime(CLOCK_MONOTONIC, &start);
-  auto begin = chrono::high_resolution_clock::now();
-
-  pthread_t Threads[NUM_THREADS];
-  for(int i = 0; i < NUM_THREADS; i++){
-    pthread_create(&Threads[i], NULL, somador, (void *)i);
-  }
-
-  for(int i = 0; i < NUM_THREADS; i++){
-    pthread_join(Threads[i], NULL);
-  }
-
-  auto end = chrono::high_resolution_clock::now();
-
-  clock_gettime(CLOCK_MONOTONIC, &finish);
-
-  cout.flush();
-  cout << "\n\nTempo de execução pela C++11 chrono:\t" << chrono::duration_cast<chrono::nanoseconds>(end-begin).count() << "ns" << endl;
-
-  elapsed = ((finish.tv_sec - start.tv_sec) + (finish.tv_nsec - start.tv_nsec) / 1000000000.0) * (1000000000);
-  cout << "\n\nTempo de execução pela POSIX time:\t" << elapsed << "ns" << endl;
-
-  cout << "soma final: " << acumulador << endl;
+  cout << "\n\ntempo médio chrono: " << avarage_time_chrono/10 << endl;
+  cout << "\ntempo médio Posix: " << avarage_time_posix/10 << endl;
 
   return 0;
 }
