@@ -10,8 +10,8 @@
 #include <math.h>
 #include <chrono>
 
-#define NUM_THREADS 128 //Número de threads
-#define N 10000000 //Tamanho do array
+// #define NUM_THREADS 1 //Número de threads
+// #define N 10000000 //Tamanho do array
 
 using namespace std;
 
@@ -19,7 +19,8 @@ using namespace std;
 atomic_flag lock_stream = ATOMIC_FLAG_INIT;
 int *buffer; //buffer com os valores de -100 até 100
 int acumulador = 0; //variável usada para guardar a soma do valores do buffer
-
+int N;
+int NUM_THREADS;
 
 // Função acquire usando test_and_set com busy_wait
 void acquire(){
@@ -72,6 +73,13 @@ void* somador(void *ID){
 }
 
 int main(int argc, char *argv[]){
+  cout << "===================== Somador com threads =====================" << endl;
+  cout << endl;
+  cout << "Entre com o número de elementos: ";
+  cin >> N;
+  cout << endl;
+  cout << "Entre com o número de threads: ";
+  cin >> NUM_THREADS;
 
   buffer = (int *)malloc(N * sizeof(int));
   if(buffer == NULL){
