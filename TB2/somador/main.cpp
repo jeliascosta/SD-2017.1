@@ -4,10 +4,11 @@
 #include <pthread.h>
 #include <semaphore.h>
 #include <time.h>
+#include <math.h>
 
 #define TRUE 1
 #define FALSE 0
-#define NUM_THREADS 2
+#define NUM_THREADS 3
 #define N 10 //Tamanho do array
 
 using namespace std;
@@ -37,9 +38,15 @@ void generate_buffer(){
   }
 }
 
-void* somador(void *id){
+void* somador(void *ID){
+  int id  = (intptr_t)ID;
   int soma_local = 0;
-  for(int i = 0; i < N; i++){
+  // Dividir o array
+  int offset = N%NUM_THREADS;
+  int chunks = floor(N/NUM_THREADS);
+  int start =id*chunks;
+  int end = ((id+1)*chunks);  
+  for(int i = start; i < end; i++){
     soma_local += buffer[i];
   }
   acquire();
