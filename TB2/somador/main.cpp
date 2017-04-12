@@ -1,4 +1,5 @@
 #include <iostream>
+#include <atomic>
 #include <stdlib.h>
 #include <pthread.h>
 #include <semaphore.h>
@@ -12,26 +13,17 @@
 using namespace std;
 
 // Variáveis globais
-int *buffer;
+atomic_flag lock_stream = ATOMIC_FLAG_INIT;
+int *buffer; //buffer com os valores de -100 até 100
+int acumulador; //variável usada para guardar a soma do valores do buffer
 
-pthread_mutex_t randMutex;
 
-struct LOCK{
-  bool held = FALSE;
-};
-
-bool test_and_set(bool *flag){
-  bool anterior = *flag;
-  *flag = TRUE;
-  return anterior;
+void acquire(){
+  while(lock_stream.test_and_set());
 }
 
-void acquire(LOCK *lock){
-  while(test_and_set(&lock->held));
-}
-
-void release(LOCK *lock){
-  lock->held = FALSE;
+void release(){
+  lock_stream.clear();
 }
 
 void generate_buffer(){
@@ -43,6 +35,8 @@ void generate_buffer(){
 
 void* somador(void *id){
 
+  acquire();
+  release();
 }
 
 int main(int argc, char *argv[]){
@@ -55,10 +49,10 @@ int main(int argc, char *argv[]){
 
   srand(time(NULL));
   // Cria N threads
-  // pthread_t Threads[NUM_THREADS];
-  // for(int i = 0; i < NUM_THREADS; i++){
-  //   pthread_create(&Threads[i], NULL, somador, (void *)i);
-  // }
+  pthread_t Threads[NUM_THREADS];
+  for(int i = 0; i < NUM_THREADS; i++){
+    pthread_create(&Threads[i], NULL, somador, (void *)i);
+  }
 
   return 0;
 }
