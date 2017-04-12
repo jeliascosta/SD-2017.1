@@ -40,7 +40,7 @@
           <commandLine>-D_REENTRANT</commandLine>
         </cTool>
         <ccTool>
-          <standard>8</standard>
+          <standard>4</standard>
           <commandLine>-D_REENTRANT</commandLine>
         </ccTool>
         <linkerTool>

@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=GNU-Linux
 CND_ARTIFACT_DIR_Debug=dist/Debug/GNU-Linux
-CND_ARTIFACT_NAME_Debug=semaphores
-CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux/semaphores
+CND_ARTIFACT_NAME_Debug=semaphores_1
+CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux/semaphores_1
 CND_PACKAGE_DIR_Debug=dist/Debug/GNU-Linux/package
-CND_PACKAGE_NAME_Debug=semaphores.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux/package/semaphores.tar
+CND_PACKAGE_NAME_Debug=semaphores1.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux/package/semaphores1.tar
 # Release configuration
 CND_PLATFORM_Release=GNU-Linux
 CND_ARTIFACT_DIR_Release=dist/Release/GNU-Linux
-CND_ARTIFACT_NAME_Release=semaphores
-CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux/semaphores
+CND_ARTIFACT_NAME_Release=semaphores_1
+CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux/semaphores_1
 CND_PACKAGE_DIR_Release=dist/Release/GNU-Linux/package
-CND_PACKAGE_NAME_Release=semaphores.tar
-CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux/package/semaphores.tar
+CND_PACKAGE_NAME_Release=semaphores1.tar
+CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux/package/semaphores1.tar
 #
 # include compiler specific variables
 #
