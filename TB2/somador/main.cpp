@@ -1,5 +1,12 @@
-// Para compilar o programa, utilizar a versão 11 do c++
-//Comando: g++ -std=c++11 main.cpp
+/*
+ * Author: Roberto Cunha
+ *
+ *
+ * Somador com threads
+ *
+ * Para compilar o programa, utilizar a versão 11 do c++
+ * Utilizando o g++: g++ -std=c++11 main.cpp
+ */
 
 #include <iostream>
 #include <atomic>
