@@ -19,23 +19,11 @@ public class LogartimoThread extends Thread {
     
     @Override
     public void run(){
-        System.out.println("\n Rodou MeuThread nro: "+this.nroThread+"! Start Offset: "+this.start+" , End Offset: "+this.end+", localVec size:"+localVector.length);
-        
-        int k = 0;
-        for (int i = start; i < end; i++)
-            localVector[k++] = Client.globalVector[i]; //Copiar parte de globalVector alocada para esta thread
-        
-        /*for (int i=0; i < localVector.length; i++)
-            System.out.println(nroThread + " antes de log() "+i+" - "+localVector[i]);*/
+        System.arraycopy(Client.globalVector,start,localVector,0,end-start); //Copiar parte de globalVector alocada para esta thread
         
         try { localVector = Client.servicoRMI.logaritmo(localVector, 2); } //Passar vetor para método RMI logaritmo
         catch (RemoteException ex) { Logger.getLogger(LogartimoThread.class.getName()).log(Level.SEVERE, null, ex); }
         
-        /*for (int i=0;i<localVector.length;i++)
-            System.out.println(nroThread + " após log() "+i+" - "+localVector[i]);*/
-        
-        k=0;
-        for (int i = start; i < end; i++)
-            Client.globalVector[i] = localVector[k++]; //Guardar em globalVector processamento alocado a esta thread
+        System.arraycopy(localVector,0,Client.globalVector,start,end-start); //Guardar em globalVector processamento alocado a esta thread
     }
 }

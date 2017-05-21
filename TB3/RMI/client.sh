@@ -1,2 +1,2 @@
 #!/bin/bash
-java -classpath $CLASSPATH rmi.Client $1 $2
+java -Xmx4096m -classpath $CLASSPATH rmi.Client $1 $2
