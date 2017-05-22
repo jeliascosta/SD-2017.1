@@ -1,6 +1,6 @@
 #!/bin/bash
 export CLASSPATH=/home/kldev/NetBeansProjects/RMI/build/classes/
-for k in 2 4 8 16 32 64
+for k in 1 2 4 8 16 32 64
 do
   printf "\n\nFunção Logaritmo\n\n"
   killall -9 java && killall -9 rmiregistry && sleep 2

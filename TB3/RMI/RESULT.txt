@@ -1,0 +1,1008 @@
+
+
+Função Logaritmo
+
+1º el. pré RMI: 165.0;Nº el. pré RMI: 148.0;1º el. pós RMI: 7.366322214245815;Nº el. pós RMI: 7.209453365628949;1 Threads;Tempo de execução: ;14560646790
+1º el. pré RMI: 734.0;Nº el. pré RMI: 260.0;1º el. pós RMI: 9.519636252843213;Nº el. pós RMI: 8.022367813028454;1 Threads;Tempo de execução: ;14418445226
+1º el. pré RMI: 890.0;Nº el. pré RMI: 480.0;1º el. pós RMI: 9.79766152585376;Nº el. pós RMI: 8.90689059560852;1 Threads;Tempo de execução: ;14398044048
+1º el. pré RMI: 831.0;Nº el. pré RMI: 464.0;1º el. pós RMI: 9.698704666770345;Nº el. pós RMI: 8.857980995127573;1 Threads;Tempo de execução: ;14651386423
+1º el. pré RMI: 933.0;Nº el. pré RMI: 825.0;1º el. pós RMI: 9.86573327085176;Nº el. pós RMI: 9.688250309133178;1 Threads;Tempo de execução: ;14563131790
+1º el. pré RMI: 616.0;Nº el. pré RMI: 251.0;1º el. pós RMI: 9.266786540694902;Nº el. pós RMI: 7.971543553950772;1 Threads;Tempo de execução: ;14515731948
+1º el. pré RMI: 446.0;Nº el. pré RMI: 763.0;1º el. pós RMI: 8.800899899920305;Nº el. pós RMI: 9.57553924683453;1 Threads;Tempo de execução: ;14586014058
+1º el. pré RMI: 111.0;Nº el. pré RMI: 842.0;1º el. pós RMI: 6.794415866350106;Nº el. pós RMI: 9.717676423066397;1 Threads;Tempo de execução: ;14574149531
+1º el. pré RMI: 701.0;Nº el. pré RMI: 870.0;1º el. pós RMI: 9.453270634010623;Nº el. pós RMI: 9.76487159073609;1 Threads;Tempo de execução: ;14481121100
+1º el. pré RMI: 67.0;Nº el. pré RMI: 200.0;1º el. pós RMI: 6.066089190457772;Nº el. pós RMI: 7.643856189774724;1 Threads;Tempo de execução: ;14642354717
+1º el. pré RMI: 563.0;Nº el. pré RMI: 417.0;1º el. pós RMI: 9.13699111208023;Nº el. pós RMI: 8.703903573444665;1 Threads;Tempo de execução: ;14575316436
+1º el. pré RMI: 836.0;Nº el. pré RMI: 367.0;1º el. pós RMI: 9.707359132080883;Nº el. pós RMI: 8.519636252843213;1 Threads;Tempo de execução: ;14386750428
+1º el. pré RMI: 762.0;Nº el. pré RMI: 183.0;1º el. pós RMI: 9.573647187493323;Nº el. pós RMI: 7.515699838284044;1 Threads;Tempo de execução: ;14638294501
+1º el. pré RMI: 321.0;Nº el. pré RMI: 329.0;1º el. pós RMI: 8.326429487122303;Nº el. pós RMI: 8.361943773735241;1 Threads;Tempo de execução: ;14438168042
+1º el. pré RMI: 578.0;Nº el. pré RMI: 600.0;1º el. pós RMI: 9.17492568250068;Nº el. pós RMI: 9.228818690495881;1 Threads;Tempo de execução: ;14526265576
+1º el. pré RMI: 754.0;Nº el. pré RMI: 222.0;1º el. pós RMI: 9.558420713268665;Nº el. pós RMI: 7.794415866350106;1 Threads;Tempo de execução: ;14502528789
+1º el. pré RMI: 720.0;Nº el. pré RMI: 314.0;1º el. pós RMI: 9.491853096329676;Nº el. pós RMI: 8.294620748891626;1 Threads;Tempo de execução: ;14495541503
+1º el. pré RMI: 202.0;Nº el. pré RMI: 253.0;1º el. pós RMI: 7.6582114827517955;Nº el. pós RMI: 7.98299357469431;1 Threads;Tempo de execução: ;14409454552
+1º el. pré RMI: 554.0;Nº el. pré RMI: 241.0;1º el. pós RMI: 9.113742166049189;Nº el. pós RMI: 7.912889336229962;1 Threads;Tempo de execução: ;14650507892
+1º el. pré RMI: 397.0;Nº el. pré RMI: 433.0;1º el. pós RMI: 8.632995197142959;Nº el. pós RMI: 8.758223214726724;1 Threads;Tempo de execução: ;14393500013
+
+
+Função Potência
+
+1º el. pré RMI: 534.0;Nº el. pré RMI: 373.0;1º el. pós RMI: 5.677089001583968E272;Nº el. pós RMI: 1.482119362178728E257;1 Threads;Tempo de execução: ;20300337924
+1º el. pré RMI: 743.0;Nº el. pré RMI: 63.0;1º el. pós RMI: 1.2556869363578747E287;Nº el. pós RMI: 8.591222076467487E179;1 Threads;Tempo de execução: ;20357027472
+1º el. pré RMI: 841.0;Nº el. pré RMI: 781.0;1º el. pós RMI: 3.017168603289159E292;Nº el. pós RMI: 1.8412102660598325E289;1 Threads;Tempo de execução: ;20418052272
+1º el. pré RMI: 202.0;Nº el. pré RMI: 210.0;1º el. pós RMI: 3.4287588743718133E230;Nº el. pós RMI: 1.6669764843963373E232;1 Threads;Tempo de execução: ;20345987658
+1º el. pré RMI: 40.0;Nº el. pré RMI: 675.0;1º el. pós RMI: 1.6069380442589903E160;Nº el. pós RMI: 8.51877765590604E282;1 Threads;Tempo de execução: ;20241400286
+1º el. pré RMI: 31.0;Nº el. pré RMI: 615.0;1º el. pós RMI: 1.3682623708966451E149;Nº el. pós RMI: 7.718120904896227E278;1 Threads;Tempo de execução: ;20171269940
+1º el. pré RMI: 677.0;Nº el. pré RMI: 809.0;1º el. pós RMI: 1.1451618421946592E283;Nº el. pós RMI: 6.235225451973818E290;1 Threads;Tempo de execução: ;20343171928
+1º el. pré RMI: 626.0;Nº el. pré RMI: 138.0;1º el. pós RMI: 4.5439476681996E279;Nº el. pós RMI: 9.725426144095548E213;1 Threads;Tempo de execução: ;20206846519
+1º el. pré RMI: 386.0;Nº el. pré RMI: 487.0;1º el. pós RMI: 4.5575397709631085E258;Nº el. pós RMI: 5.661038669292076E268;1 Threads;Tempo de execução: ;20177658818
+1º el. pré RMI: 26.0;Nº el. pré RMI: 381.0;1º el. pós RMI: 3.142930641582939E141;Nº el. pós RMI: 1.237364259567859E258;1 Threads;Tempo de execução: ;20437903254
+1º el. pré RMI: 382.0;Nº el. pré RMI: 90.0;1º el. pós RMI: 1.6081860522413032E258;Nº el. pós RMI: 2.656139888758748E195;1 Threads;Tempo de execução: ;20256890207
+1º el. pré RMI: 893.0;Nº el. pré RMI: 621.0;1º el. pós RMI: 1.2165946123012143E295;Nº el. pós RMI: 2.0377927728554322E279;1 Threads;Tempo de execução: ;20335556377
+1º el. pré RMI: 339.0;Nº el. pré RMI: 213.0;1º el. pós RMI: 1.047055784246274E253;Nº el. pós RMI: 6.885894172685811E232;1 Threads;Tempo de execução: ;20238294418
+1º el. pré RMI: 902.0;Nº el. pré RMI: 405.0;1º el. pós RMI: 3.316299566863801E295;Nº el. pós RMI: 5.565476092059695E260;1 Threads;Tempo de execução: ;20374999865
+1º el. pré RMI: 50.0;Nº el. pré RMI: 339.0;1º el. pós RMI: 7.888609052210118E169;Nº el. pós RMI: 1.047055784246274E253;1 Threads;Tempo de execução: ;20307899392
+1º el. pré RMI: 346.0;Nº el. pré RMI: 31.0;1º el. pós RMI: 8.083694258695691E253;Nº el. pós RMI: 1.3682623708966451E149;1 Threads;Tempo de execução: ;20298889650
+1º el. pré RMI: 418.0;Nº el. pré RMI: 943.0;1º el. pós RMI: 1.3110769360035297E262;Nº el. pós RMI: 2.8259812350036167E297;1 Threads;Tempo de execução: ;20201153250
+1º el. pré RMI: 643.0;Nº el. pré RMI: 512.0;1º el. pós RMI: 6.623648727639513E280;Nº el. pós RMI: 8.452712498170644E270;1 Threads;Tempo de execução: ;20225653897
+1º el. pré RMI: 152.0;Nº el. pré RMI: 512.0;1º el. pós RMI: 1.5288285857417517E218;Nº el. pós RMI: 8.452712498170644E270;1 Threads;Tempo de execução: ;20283296636
+1º el. pré RMI: 17.0;Nº el. pré RMI: 65.0;1º el. pós RMI: 1.1088993727807837E123;Nº el. pós RMI: 1.9558505399828548E181;1 Threads;Tempo de execução: ;20371893400
+
+
+Função Seno
+
+1º el. pré RMI: 640.0;Nº el. pré RMI: 855.0;1º el. pós RMI: -0.773852498155771;Nº el. pós RMI: 0.46779844817476307;1 Threads;Tempo de execução: ;24809531487
+1º el. pré RMI: 122.0;Nº el. pré RMI: 380.0;1º el. pós RMI: 0.4987131538963941;Nº el. pós RMI: 0.13232187086982847;1 Threads;Tempo de execução: ;24628331174
+1º el. pré RMI: 168.0;Nº el. pré RMI: 610.0;1º el. pós RMI: -0.9971732887740798;Nº el. pós RMI: 0.506417628279074;1 Threads;Tempo de execução: ;24848178379
+1º el. pré RMI: 41.0;Nº el. pré RMI: 658.0;1º el. pós RMI: -0.158622668804709;Nº el. pós RMI: -0.9866374167508005;1 Threads;Tempo de execução: ;24797229022
+1º el. pré RMI: 342.0;Nº el. pré RMI: 853.0;1º el. pós RMI: 0.42013968223930687;Nº el. pós RMI: -0.9983418923066761;1 Threads;Tempo de execução: ;24890782634
+1º el. pré RMI: 185.0;Nº el. pré RMI: 693.0;1º el. pós RMI: 0.346621180094276;Nº el. pós RMI: 0.9613809008905675;1 Threads;Tempo de execução: ;24767777908
+1º el. pré RMI: 210.0;Nº el. pré RMI: 778.0;1º el. pós RMI: 0.46771851834275896;Nº el. pós RMI: -0.8979011434038442;1 Threads;Tempo de execução: ;24910703297
+1º el. pré RMI: 51.0;Nº el. pré RMI: 283.0;1º el. pós RMI: 0.6702291758433747;Nº el. pós RMI: 0.253852519790234;1 Threads;Tempo de execução: ;24704949059
+1º el. pré RMI: 114.0;Nº el. pré RMI: 225.0;1º el. pós RMI: 0.7849803886813105;Nº el. pós RMI: -0.9300948780045254;1 Threads;Tempo de execução: ;24783846895
+1º el. pré RMI: 885.0;Nº el. pré RMI: 511.0;1º el. pós RMI: -0.8010985118825478;Nº el. pós RMI: 0.8817704007607503;1 Threads;Tempo de execução: ;24940012665
+1º el. pré RMI: 517.0;Nº el. pré RMI: 303.0;1º el. pós RMI: 0.9784441260755459;Nº el. pós RMI: 0.9866325048439105;1 Threads;Tempo de execução: ;24860099047
+1º el. pré RMI: 765.0;Nº el. pré RMI: 334.0;1º el. pós RMI: -0.9997538375481824;Nº el. pós RMI: 0.8366721491002946;1 Threads;Tempo de execução: ;24780256516
+1º el. pré RMI: 686.0;Nº el. pré RMI: 272.0;1º el. pós RMI: 0.9056039335646163;Nº el. pós RMI: 0.9683569384347241;1 Threads;Tempo de execução: ;24824858403
+1º el. pré RMI: 383.0;Nº el. pré RMI: 891.0;1º el. pós RMI: -0.27087677105340535;Nº el. pós RMI: -0.9364302492977055;1 Threads;Tempo de execução: ;24834202666
+1º el. pré RMI: 395.0;Nº el. pré RMI: 649.0;1º el. pós RMI: -0.745093055724214;Nº el. pós RMI: 0.9661022076387795;1 Threads;Tempo de execução: ;24844272273
+1º el. pré RMI: 178.0;Nº el. pré RMI: 901.0;1º el. pós RMI: 0.8775753358042688;Nº el. pós RMI: 0.5948600877161377;1 Threads;Tempo de execução: ;24947597309
+1º el. pré RMI: 416.0;Nº el. pré RMI: 603.0;1º el. pós RMI: 0.9661255498763623;Nº el. pós RMI: -0.18472249371488758;1 Threads;Tempo de execução: ;24877214311
+1º el. pré RMI: 865.0;Nº el. pré RMI: 726.0;1º el. pós RMI: -0.8733413515152515;Nº el. pós RMI: -0.28796105219335977;1 Threads;Tempo de execução: ;24822985591
+1º el. pré RMI: 920.0;Nº el. pré RMI: 87.0;1º el. pós RMI: 0.46766522966301216;Nº el. pós RMI: -0.8218178366308225;1 Threads;Tempo de execução: ;24851164996
+1º el. pré RMI: 380.0;Nº el. pré RMI: 395.0;1º el. pós RMI: 0.13232187086982847;Nº el. pós RMI: -0.745093055724214;1 Threads;Tempo de execução: ;24718447752
+
+
+Função Média
+
+1º el. pré RMI: 350.0;Nº el. pré RMI: 609.0;Resultado RMI: 499.5123999025176;1 Threads;Tempo de execução: ;5240876548
+1º el. pré RMI: 683.0;Nº el. pré RMI: 49.0;Resultado RMI: 499.5018392926152;1 Threads;Tempo de execução: ;5222906006
+1º el. pré RMI: 426.0;Nº el. pré RMI: 745.0;Resultado RMI: 499.4746632424603;1 Threads;Tempo de execução: ;5235754040
+1º el. pré RMI: 509.0;Nº el. pré RMI: 951.0;Resultado RMI: 499.4752609024707;1 Threads;Tempo de execução: ;5325277354
+1º el. pré RMI: 107.0;Nº el. pré RMI: 36.0;Resultado RMI: 499.5033708726239;1 Threads;Tempo de execução: ;5205349923
+1º el. pré RMI: 295.0;Nº el. pré RMI: 189.0;Resultado RMI: 499.4742377025481;1 Threads;Tempo de execução: ;5286227597
+1º el. pré RMI: 580.0;Nº el. pré RMI: 479.0;Resultado RMI: 499.4885422124564;1 Threads;Tempo de execução: ;5270029455
+1º el. pré RMI: 808.0;Nº el. pré RMI: 551.0;Resultado RMI: 499.5150035728617;1 Threads;Tempo de execução: ;5226401772
+1º el. pré RMI: 781.0;Nº el. pré RMI: 782.0;Resultado RMI: 499.5248809024538;1 Threads;Tempo de execução: ;5231352180
+1º el. pré RMI: 647.0;Nº el. pré RMI: 667.0;Resultado RMI: 499.55514707239934;1 Threads;Tempo de execução: ;5274509364
+1º el. pré RMI: 249.0;Nº el. pré RMI: 900.0;Resultado RMI: 499.50281014263413;1 Threads;Tempo de execução: ;5206869546
+1º el. pré RMI: 174.0;Nº el. pré RMI: 273.0;Resultado RMI: 499.4636729025922;1 Threads;Tempo de execução: ;5219247440
+1º el. pré RMI: 5.0;Nº el. pré RMI: 301.0;Resultado RMI: 499.5084586325262;1 Threads;Tempo de execução: ;5290221823
+1º el. pré RMI: 993.0;Nº el. pré RMI: 757.0;Resultado RMI: 499.50224553250536;1 Threads;Tempo de execução: ;5203844249
+1º el. pré RMI: 208.0;Nº el. pré RMI: 417.0;Resultado RMI: 499.4858670625032;1 Threads;Tempo de execução: ;5203413488
+1º el. pré RMI: 916.0;Nº el. pré RMI: 393.0;Resultado RMI: 499.52971970275263;1 Threads;Tempo de execução: ;5299138852
+1º el. pré RMI: 514.0;Nº el. pré RMI: 264.0;Resultado RMI: 499.4975570725317;1 Threads;Tempo de execução: ;5220834400
+1º el. pré RMI: 566.0;Nº el. pré RMI: 461.0;Resultado RMI: 499.5212681127219;1 Threads;Tempo de execução: ;5232109460
+1º el. pré RMI: 591.0;Nº el. pré RMI: 857.0;Resultado RMI: 499.4768503624721;1 Threads;Tempo de execução: ;5267282672
+1º el. pré RMI: 673.0;Nº el. pré RMI: 222.0;Resultado RMI: 499.49579103256036;1 Threads;Tempo de execução: ;5234583053
+
+
+Função ContaMaiorQue
+
+1º el. pré RMI: 757.0;Nº el. pré RMI: 836.0;Resultado RMI: 4.9899749E7;1 Threads;Tempo de execução: ;4728923343
+1º el. pré RMI: 412.0;Nº el. pré RMI: 692.0;Resultado RMI: 4.9899912E7;1 Threads;Tempo de execução: ;4704430141
+1º el. pré RMI: 305.0;Nº el. pré RMI: 295.0;Resultado RMI: 4.9903078E7;1 Threads;Tempo de execução: ;4682740697
+1º el. pré RMI: 317.0;Nº el. pré RMI: 741.0;Resultado RMI: 4.9890706E7;1 Threads;Tempo de execução: ;4800544633
+1º el. pré RMI: 250.0;Nº el. pré RMI: 717.0;Resultado RMI: 4.9901221E7;1 Threads;Tempo de execução: ;4719125001
+1º el. pré RMI: 910.0;Nº el. pré RMI: 506.0;Resultado RMI: 4.9901956E7;1 Threads;Tempo de execução: ;4696737404
+1º el. pré RMI: 821.0;Nº el. pré RMI: 816.0;Resultado RMI: 4.9910851E7;1 Threads;Tempo de execução: ;4781925611
+1º el. pré RMI: 569.0;Nº el. pré RMI: 361.0;Resultado RMI: 4.9896411E7;1 Threads;Tempo de execução: ;4710564452
+1º el. pré RMI: 724.0;Nº el. pré RMI: 422.0;Resultado RMI: 4.9891052E7;1 Threads;Tempo de execução: ;4659232785
+1º el. pré RMI: 93.0;Nº el. pré RMI: 766.0;Resultado RMI: 4.9899354E7;1 Threads;Tempo de execução: ;4757239109
+1º el. pré RMI: 538.0;Nº el. pré RMI: 11.0;Resultado RMI: 4.9902853E7;1 Threads;Tempo de execução: ;4723765824
+1º el. pré RMI: 294.0;Nº el. pré RMI: 122.0;Resultado RMI: 4.9901324E7;1 Threads;Tempo de execução: ;4696788966
+1º el. pré RMI: 452.0;Nº el. pré RMI: 838.0;Resultado RMI: 4.9895849E7;1 Threads;Tempo de execução: ;4731157010
+1º el. pré RMI: 383.0;Nº el. pré RMI: 855.0;Resultado RMI: 4.9899687E7;1 Threads;Tempo de execução: ;4707294569
+1º el. pré RMI: 307.0;Nº el. pré RMI: 232.0;Resultado RMI: 4.9892597E7;1 Threads;Tempo de execução: ;4704339756
+1º el. pré RMI: 77.0;Nº el. pré RMI: 75.0;Resultado RMI: 4.9894045E7;1 Threads;Tempo de execução: ;4781099476
+1º el. pré RMI: 89.0;Nº el. pré RMI: 549.0;Resultado RMI: 4.989916E7;1 Threads;Tempo de execução: ;4679275029
+1º el. pré RMI: 855.0;Nº el. pré RMI: 95.0;Resultado RMI: 4.9894739E7;1 Threads;Tempo de execução: ;4687110217
+1º el. pré RMI: 755.0;Nº el. pré RMI: 77.0;Resultado RMI: 4.989122E7;1 Threads;Tempo de execução: ;4712390710
+1º el. pré RMI: 578.0;Nº el. pré RMI: 355.0;Resultado RMI: 4.9909356E7;1 Threads;Tempo de execução: ;4663159221
+
+
+Função ContaIntervalo
+
+1º el. pré RMI: 914.0;Nº el. pré RMI: 293.0;Resultado RMI: 2.510194E7;1 Threads;Tempo de execução: ;4707412400
+1º el. pré RMI: 415.0;Nº el. pré RMI: 393.0;Resultado RMI: 2.5097572E7;1 Threads;Tempo de execução: ;4757093181
+1º el. pré RMI: 194.0;Nº el. pré RMI: 428.0;Resultado RMI: 2.5101443E7;1 Threads;Tempo de execução: ;4695122985
+1º el. pré RMI: 472.0;Nº el. pré RMI: 156.0;Resultado RMI: 2.5096628E7;1 Threads;Tempo de execução: ;4773847181
+1º el. pré RMI: 538.0;Nº el. pré RMI: 273.0;Resultado RMI: 2.5104939E7;1 Threads;Tempo de execução: ;4750354418
+1º el. pré RMI: 651.0;Nº el. pré RMI: 135.0;Resultado RMI: 2.5105212E7;1 Threads;Tempo de execução: ;4709158362
+1º el. pré RMI: 933.0;Nº el. pré RMI: 867.0;Resultado RMI: 2.5096375E7;1 Threads;Tempo de execução: ;4781379762
+1º el. pré RMI: 642.0;Nº el. pré RMI: 340.0;Resultado RMI: 2.5103673E7;1 Threads;Tempo de execução: ;4682977751
+1º el. pré RMI: 330.0;Nº el. pré RMI: 81.0;Resultado RMI: 2.5096218E7;1 Threads;Tempo de execução: ;4698782913
+1º el. pré RMI: 315.0;Nº el. pré RMI: 912.0;Resultado RMI: 2.5103075E7;1 Threads;Tempo de execução: ;4759541278
+1º el. pré RMI: 323.0;Nº el. pré RMI: 538.0;Resultado RMI: 2.5092912E7;1 Threads;Tempo de execução: ;4693072809
+1º el. pré RMI: 234.0;Nº el. pré RMI: 639.0;Resultado RMI: 2.5098088E7;1 Threads;Tempo de execução: ;4723316333
+1º el. pré RMI: 784.0;Nº el. pré RMI: 853.0;Resultado RMI: 2.5109326E7;1 Threads;Tempo de execução: ;4753950321
+1º el. pré RMI: 422.0;Nº el. pré RMI: 264.0;Resultado RMI: 2.5101572E7;1 Threads;Tempo de execução: ;4709631288
+1º el. pré RMI: 271.0;Nº el. pré RMI: 792.0;Resultado RMI: 2.5098081E7;1 Threads;Tempo de execução: ;4717857304
+1º el. pré RMI: 420.0;Nº el. pré RMI: 646.0;Resultado RMI: 2.509587E7;1 Threads;Tempo de execução: ;4805831880
+1º el. pré RMI: 185.0;Nº el. pré RMI: 583.0;Resultado RMI: 2.5099373E7;1 Threads;Tempo de execução: ;4690315137
+1º el. pré RMI: 977.0;Nº el. pré RMI: 281.0;Resultado RMI: 2.5093414E7;1 Threads;Tempo de execução: ;4692581147
+1º el. pré RMI: 558.0;Nº el. pré RMI: 648.0;Resultado RMI: 2.510425E7;1 Threads;Tempo de execução: ;4754899630
+1º el. pré RMI: 475.0;Nº el. pré RMI: 617.0;Resultado RMI: 2.5098959E7;1 Threads;Tempo de execução: ;4740261823
+
+
+Função Logaritmo
+
+1º el. pré RMI: 153.0;Nº el. pré RMI: 327.0;1º el. pós RMI: 7.257387842692652;Nº el. pós RMI: 8.353146825498083;2 Threads;Tempo de execução: ;8064132041
+1º el. pré RMI: 675.0;Nº el. pré RMI: 77.0;1º el. pós RMI: 9.398743691938193;Nº el. pós RMI: 6.266786540694902;2 Threads;Tempo de execução: ;8265246389
+1º el. pré RMI: 410.0;Nº el. pré RMI: 715.0;1º el. pós RMI: 8.679480099505447;Nº el. pós RMI: 9.481799431665753;2 Threads;Tempo de execução: ;8175062016
+1º el. pré RMI: 151.0;Nº el. pré RMI: 966.0;1º el. pós RMI: 7.238404739325079;Nº el. pós RMI: 9.915879378835774;2 Threads;Tempo de execução: ;8441056986
+1º el. pré RMI: 358.0;Nº el. pré RMI: 38.0;1º el. pós RMI: 8.483815777264256;Nº el. pós RMI: 5.247927513443585;2 Threads;Tempo de execução: ;8188390275
+1º el. pré RMI: 230.0;Nº el. pré RMI: 479.0;1º el. pós RMI: 7.845490050944376;Nº el. pós RMI: 8.90388184573618;2 Threads;Tempo de execução: ;8272972109
+1º el. pré RMI: 943.0;Nº el. pré RMI: 363.0;1º el. pós RMI: 9.881113960675098;Nº el. pós RMI: 8.50382573799575;2 Threads;Tempo de execução: ;8468094092
+1º el. pré RMI: 231.0;Nº el. pré RMI: 604.0;1º el. pós RMI: 7.851749041416057;Nº el. pós RMI: 9.238404739325079;2 Threads;Tempo de execução: ;8245597471
+1º el. pré RMI: 502.0;Nº el. pré RMI: 549.0;1º el. pós RMI: 8.971543553950772;Nº el. pós RMI: 9.100662339005199;2 Threads;Tempo de execução: ;8208642692
+1º el. pré RMI: 447.0;Nº el. pré RMI: 356.0;1º el. pós RMI: 8.804131021183318;Nº el. pós RMI: 8.475733430966399;2 Threads;Tempo de execução: ;8394271144
+1º el. pré RMI: 856.0;Nº el. pré RMI: 915.0;1º el. pós RMI: 9.741466986401146;Nº el. pós RMI: 9.837627933171404;2 Threads;Tempo de execução: ;8241422713
+1º el. pré RMI: 482.0;Nº el. pré RMI: 888.0;1º el. pós RMI: 8.912889336229961;Nº el. pós RMI: 9.794415866350107;2 Threads;Tempo de execução: ;8178627327
+1º el. pré RMI: 779.0;Nº el. pré RMI: 110.0;1º el. pós RMI: 9.605479518061669;Nº el. pós RMI: 6.78135971352466;2 Threads;Tempo de execução: ;8416657798
+1º el. pré RMI: 243.0;Nº el. pré RMI: 554.0;1º el. pós RMI: 7.924812503605781;Nº el. pós RMI: 9.113742166049189;2 Threads;Tempo de execução: ;8198576920
+1º el. pré RMI: 347.0;Nº el. pré RMI: 292.0;1º el. pós RMI: 8.43879185257826;Nº el. pós RMI: 8.189824558880018;2 Threads;Tempo de execução: ;8183680804
+1º el. pré RMI: 792.0;Nº el. pré RMI: 697.0;1º el. pós RMI: 9.62935662007961;Nº el. pós RMI: 9.445014845868423;2 Threads;Tempo de execução: ;8479804279
+1º el. pré RMI: 725.0;Nº el. pré RMI: 237.0;1º el. pós RMI: 9.501837184902296;Nº el. pós RMI: 7.88874324889826;2 Threads;Tempo de execução: ;8321644224
+1º el. pré RMI: 994.0;Nº el. pré RMI: 177.0;1º el. pós RMI: 9.957102041562287;Nº el. pós RMI: 7.467605550082998;2 Threads;Tempo de execução: ;8226378134
+1º el. pré RMI: 254.0;Nº el. pré RMI: 950.0;1º el. pós RMI: 7.988684686772166;Nº el. pós RMI: 9.89178370321831;2 Threads;Tempo de execução: ;8385762811
+1º el. pré RMI: 416.0;Nº el. pré RMI: 589.0;1º el. pós RMI: 8.700439718141093;Nº el. pós RMI: 9.20212382383046;2 Threads;Tempo de execução: ;8153806300
+
+
+Função Potência
+
+1º el. pré RMI: 954.0;Nº el. pré RMI: 2.0;1º el. pós RMI: 9.012337983617769E297;Nº el. pós RMI: 1.2676506002282294E30;2 Threads;Tempo de execução: ;10910568792
+1º el. pré RMI: 91.0;Nº el. pré RMI: 827.0;1º el. pós RMI: 8.019351175907331E195;Nº el. pós RMI: 5.630551761125406E291;2 Threads;Tempo de execução: ;11078031427
+1º el. pré RMI: 456.0;Nº el. pré RMI: 56.0;1º el. pós RMI: 7.879238861438112E265;Nº el. pós RMI: 6.588745014714429E174;2 Threads;Tempo de execução: ;11121404795
+1º el. pré RMI: 333.0;Nº el. pré RMI: 708.0;1º el. pós RMI: 1.7555910196249857E252;Nº el. pós RMI: 1.0076872625154275E285;2 Threads;Tempo de execução: ;11389096731
+1º el. pré RMI: 951.0;Nº el. pré RMI: 296.0;1º el. pós RMI: 6.577361225259044E297;Nº el. pós RMI: 1.3463907085018212E247;2 Threads;Tempo de execução: ;11082526122
+1º el. pré RMI: 177.0;Nº el. pré RMI: 979.0;1º el. pós RMI: 6.270853229939576E224;Nº el. pós RMI: 1.1974825136679856E299;2 Threads;Tempo de execução: ;11094971404
+1º el. pré RMI: 309.0;Nº el. pré RMI: 810.0;1º el. pós RMI: 9.904850902154637E248;Nº el. pós RMI: 7.055079108655333E290;2 Threads;Tempo de execução: ;11339672489
+1º el. pré RMI: 101.0;Nº el. pré RMI: 187.0;1º el. pós RMI: 2.704813829421526E200;Nº el. pós RMI: 1.5281312380164042E227;2 Threads;Tempo de execução: ;11108895177
+1º el. pré RMI: 386.0;Nº el. pré RMI: 249.0;1º el. pós RMI: 4.5575397709631085E258;Nº el. pós RMI: 4.168067173874796E239;2 Threads;Tempo de execução: ;11127043789
+1º el. pré RMI: 874.0;Nº el. pré RMI: 47.0;1º el. pós RMI: 1.4162608937576378E294;Nº el. pós RMI: 1.621010371591065E167;2 Threads;Tempo de execução: ;11301771070
+1º el. pré RMI: 443.0;Nº el. pré RMI: 233.0;1º el. pós RMI: 4.368905211711959E264;Nº el. pós RMI: 5.439914859810648E236;2 Threads;Tempo de execução: ;11067718768
+1º el. pré RMI: 399.0;Nº el. pré RMI: 325.0;1º el. pós RMI: 1.2510929265423718E260;Nº el. pós RMI: 1.5428940274478797E251;2 Threads;Tempo de execução: ;11064625671
+1º el. pré RMI: 185.0;Nº el. pré RMI: 48.0;1º el. pós RMI: 5.214021771972398E226;Nº el. pós RMI: 1.3308335400789694E168;2 Threads;Tempo de execução: ;11307155118
+1º el. pré RMI: 764.0;Nº el. pré RMI: 646.0;1º el. pós RMI: 2.0386180144023547E288;Nº el. pós RMI: 1.0549983964068292E281;2 Threads;Tempo de execução: ;11061862773
+1º el. pré RMI: 828.0;Nº el. pré RMI: 45.0;1º el. pós RMI: 6.353802021412105E291;Nº el. pós RMI: 2.0953249170398634E165;2 Threads;Tempo de execução: ;11072757985
+1º el. pré RMI: 57.0;Nº el. pré RMI: 728.0;1º el. pós RMI: 3.8679920006205734E175;Nº el. pós RMI: 1.6335706852183499E286;2 Threads;Tempo de execução: ;11281985350
+1º el. pré RMI: 89.0;Nº el. pré RMI: 169.0;1º el. pós RMI: 8.689617588382358E194;Nº el. pós RMI: 6.147102592468652E222;2 Threads;Tempo de execução: ;11033499538
+1º el. pré RMI: 687.0;Nº el. pré RMI: 521.0;1º el. pós RMI: 4.962193619282719E283;Nº el. pós RMI: 4.828056346540949E271;2 Threads;Tempo de execução: ;11046814303
+1º el. pré RMI: 84.0;Nº el. pré RMI: 907.0;1º el. pós RMI: 2.678727931661578E192;Nº el. pós RMI: 5.764062828708501E295;2 Threads;Tempo de execução: ;11286858821
+1º el. pré RMI: 384.0;Nº el. pré RMI: 64.0;1º el. pós RMI: 2.710955799653444E258;Nº el. pós RMI: 4.149515568880993E180;2 Threads;Tempo de execução: ;11065116392
+
+
+Função Seno
+
+1º el. pré RMI: 564.0;Nº el. pré RMI: 88.0;1º el. pós RMI: -0.9964641095049708;Nº el. pós RMI: 0.03539830273366068;2 Threads;Tempo de execução: ;13393538524
+1º el. pré RMI: 170.0;Nº el. pré RMI: 798.0;1º el. pós RMI: 0.3466494554970303;Nº el. pós RMI: 0.03545855359210518;2 Threads;Tempo de execução: ;13391170752
+1º el. pré RMI: 264.0;Nº el. pré RMI: 550.0;1º el. pós RMI: 0.10601748626711377;Nº el. pós RMI: -0.219484077409708;2 Threads;Tempo de execução: ;13294770783
+1º el. pré RMI: 941.0;Nº el. pré RMI: 884.0;1º el. pós RMI: -0.9956785927816724;Nº el. pós RMI: -0.9364831199655037;2 Threads;Tempo de execução: ;13602228066
+1º el. pré RMI: 97.0;Nº el. pré RMI: 58.0;1º el. pós RMI: 0.3796077390275217;Nº el. pós RMI: 0.9928726480845371;2 Threads;Tempo de execução: ;13354637625
+1º el. pré RMI: 870.0;Nº el. pré RMI: 911.0;1º el. pós RMI: 0.21936643855075033;Nº el. pós RMI: -0.06183007747535922;2 Threads;Tempo de execução: ;13243607563
+1º el. pré RMI: 793.0;Nº el. pré RMI: 663.0;1º el. pós RMI: 0.9683795037912949;Nº el. pós RMI: -0.12363294914268595;2 Threads;Tempo de execução: ;13620997820
+1º el. pré RMI: 73.0;Nº el. pré RMI: 656.0;1º el. pós RMI: -0.6767719568873076;Nº el. pós RMI: 0.5587390498188232;2 Threads;Tempo de execução: ;13261873638
+1º el. pré RMI: 384.0;Nº el. pré RMI: 218.0;1º el. pós RMI: 0.6636564336219596;Nº el. pós RMI: -0.9425245273294025;2 Threads;Tempo de execução: ;13333024409
+1º el. pré RMI: 315.0;Nº el. pré RMI: 500.0;1º el. pós RMI: 0.7451332645574127;Nº el. pós RMI: -0.46777180532247614;2 Threads;Tempo de execução: ;13513235457
+1º el. pré RMI: 669.0;Nº el. pré RMI: 805.0;1º el. pós RMI: 0.15856314310832614;Nº el. pós RMI: 0.6833057347140384;2 Threads;Tempo de execução: ;13367334826
+1º el. pré RMI: 235.0;Nº el. pré RMI: 883.0;1º el. pós RMI: 0.5805866409896447;Nº el. pós RMI: -0.21086946636535486;2 Threads;Tempo de execução: ;13262927632
+1º el. pré RMI: 26.0;Nº el. pré RMI: 427.0;1º el. pós RMI: 0.7625584504796028;Nº el. pós RMI: -0.2537942055031938;2 Threads;Tempo de execução: ;13557635616
+1º el. pré RMI: 680.0;Nº el. pré RMI: 985.0;1º el. pós RMI: 0.9880409219176677;Nº el. pós RMI: -0.9938786672030538;2 Threads;Tempo de execução: ;13255691164
+1º el. pré RMI: 387.0;Nº el. pré RMI: 888.0;1º el. pós RMI: -0.5514518281149147;Nº el. pós RMI: 0.8775464294662774;2 Threads;Tempo de execução: ;13370393901
+1º el. pré RMI: 944.0;Nº el. pré RMI: 106.0;1º el. pós RMI: 0.998819621438444;Nº el. pós RMI: -0.7271425000808526;2 Threads;Tempo de execução: ;13619509485
+1º el. pré RMI: 328.0;Nº el. pré RMI: 62.0;1º el. pós RMI: 0.9563847343054627;Nº el. pós RMI: -0.7391806966492229;2 Threads;Tempo de execução: ;13318805486
+1º el. pré RMI: 757.0;Nº el. pré RMI: 667.0;1º el. pós RMI: 0.12351329589860735;Nº el. pós RMI: 0.8318082081799767;2 Threads;Tempo de execução: ;13308072274
+1º el. pré RMI: 465.0;Nº el. pré RMI: 831.0;1º el. pós RMI: 0.04427279290137974;Nº el. pós RMI: 0.998812289042307;2 Threads;Tempo de execução: ;13584783753
+1º el. pré RMI: 61.0;Nº el. pré RMI: 382.0;1º el. pós RMI: -0.9661177700083929;Nº el. pós RMI: -0.9563671216345017;2 Threads;Tempo de execução: ;13341846827
+
+
+Função Média
+
+1º el. pré RMI: 376.0;Nº el. pré RMI: 377.0;Resultado RMI: 499.4601581089534;2 Threads;Tempo de execução: ;3278856986
+1º el. pré RMI: 519.0;Nº el. pré RMI: 293.0;Resultado RMI: 499.5103465088354;2 Threads;Tempo de execução: ;3238876918
+1º el. pré RMI: 788.0;Nº el. pré RMI: 481.0;Resultado RMI: 499.54706358895123;2 Threads;Tempo de execução: ;3218770138
+1º el. pré RMI: 811.0;Nº el. pré RMI: 231.0;Resultado RMI: 499.5229459589206;2 Threads;Tempo de execução: ;3498036307
+1º el. pré RMI: 545.0;Nº el. pré RMI: 95.0;Resultado RMI: 499.5211378188878;2 Threads;Tempo de execução: ;3188629259
+1º el. pré RMI: 198.0;Nº el. pré RMI: 376.0;Resultado RMI: 499.4872849687305;2 Threads;Tempo de execução: ;3237245135
+1º el. pré RMI: 255.0;Nº el. pré RMI: 52.0;Resultado RMI: 499.4701853189644;2 Threads;Tempo de execução: ;3442255839
+1º el. pré RMI: 616.0;Nº el. pré RMI: 837.0;Resultado RMI: 499.4906928088533;2 Threads;Tempo de execução: ;3202440655
+1º el. pré RMI: 953.0;Nº el. pré RMI: 437.0;Resultado RMI: 499.5025485589032;2 Threads;Tempo de execução: ;3228762414
+1º el. pré RMI: 294.0;Nº el. pré RMI: 582.0;Resultado RMI: 499.5070215989821;2 Threads;Tempo de execução: ;3472771982
+1º el. pré RMI: 437.0;Nº el. pré RMI: 936.0;Resultado RMI: 499.47573524892897;2 Threads;Tempo de execução: ;3222655709
+1º el. pré RMI: 855.0;Nº el. pré RMI: 110.0;Resultado RMI: 499.48789001886945;2 Threads;Tempo de execução: ;3237411549
+1º el. pré RMI: 147.0;Nº el. pré RMI: 336.0;Resultado RMI: 499.5123352889688;2 Threads;Tempo de execução: ;3433978788
+1º el. pré RMI: 951.0;Nº el. pré RMI: 502.0;Resultado RMI: 499.52433308892336;2 Threads;Tempo de execução: ;3214177238
+1º el. pré RMI: 754.0;Nº el. pré RMI: 702.0;Resultado RMI: 499.5325934088452;2 Threads;Tempo de execução: ;3195352438
+1º el. pré RMI: 186.0;Nº el. pré RMI: 592.0;Resultado RMI: 499.5175039288375;2 Threads;Tempo de execução: ;3450931822
+1º el. pré RMI: 811.0;Nº el. pré RMI: 845.0;Resultado RMI: 499.4934649688856;2 Threads;Tempo de execução: ;3207024848
+1º el. pré RMI: 263.0;Nº el. pré RMI: 350.0;Resultado RMI: 499.5277280888671;2 Threads;Tempo de execução: ;3247390679
+1º el. pré RMI: 115.0;Nº el. pré RMI: 927.0;Resultado RMI: 499.4783092789314;2 Threads;Tempo de execução: ;3439343366
+1º el. pré RMI: 971.0;Nº el. pré RMI: 327.0;Resultado RMI: 499.4970657388784;2 Threads;Tempo de execução: ;3222977358
+
+
+Função ContaMaiorQue
+
+1º el. pré RMI: 808.0;Nº el. pré RMI: 813.0;Resultado RMI: 4.9887981E7;2 Threads;Tempo de execução: ;3077492739
+1º el. pré RMI: 462.0;Nº el. pré RMI: 451.0;Resultado RMI: 4.9899154E7;2 Threads;Tempo de execução: ;2990625035
+1º el. pré RMI: 506.0;Nº el. pré RMI: 962.0;Resultado RMI: 4.9905303E7;2 Threads;Tempo de execução: ;2963756847
+1º el. pré RMI: 243.0;Nº el. pré RMI: 349.0;Resultado RMI: 4.9897733E7;2 Threads;Tempo de execução: ;3219909121
+1º el. pré RMI: 677.0;Nº el. pré RMI: 860.0;Resultado RMI: 4.9907931E7;2 Threads;Tempo de execução: ;2987791730
+1º el. pré RMI: 141.0;Nº el. pré RMI: 436.0;Resultado RMI: 4.9899199E7;2 Threads;Tempo de execução: ;2985875586
+1º el. pré RMI: 361.0;Nº el. pré RMI: 363.0;Resultado RMI: 4.9896513E7;2 Threads;Tempo de execução: ;3172423989
+1º el. pré RMI: 544.0;Nº el. pré RMI: 893.0;Resultado RMI: 4.9907445E7;2 Threads;Tempo de execução: ;2982196546
+1º el. pré RMI: 810.0;Nº el. pré RMI: 246.0;Resultado RMI: 4.9907817E7;2 Threads;Tempo de execução: ;2985683956
+1º el. pré RMI: 556.0;Nº el. pré RMI: 367.0;Resultado RMI: 4.9895093E7;2 Threads;Tempo de execução: ;3209036752
+1º el. pré RMI: 336.0;Nº el. pré RMI: 843.0;Resultado RMI: 4.9897169E7;2 Threads;Tempo de execução: ;3012414833
+1º el. pré RMI: 968.0;Nº el. pré RMI: 852.0;Resultado RMI: 4.9900708E7;2 Threads;Tempo de execução: ;2962888004
+1º el. pré RMI: 820.0;Nº el. pré RMI: 911.0;Resultado RMI: 4.9898373E7;2 Threads;Tempo de execução: ;3172750890
+1º el. pré RMI: 628.0;Nº el. pré RMI: 10.0;Resultado RMI: 4.9894022E7;2 Threads;Tempo de execução: ;2983127436
+1º el. pré RMI: 332.0;Nº el. pré RMI: 219.0;Resultado RMI: 4.9903384E7;2 Threads;Tempo de execução: ;2982184961
+1º el. pré RMI: 74.0;Nº el. pré RMI: 964.0;Resultado RMI: 4.9902792E7;2 Threads;Tempo de execução: ;3190731134
+1º el. pré RMI: 794.0;Nº el. pré RMI: 31.0;Resultado RMI: 4.9897876E7;2 Threads;Tempo de execução: ;2984365100
+1º el. pré RMI: 387.0;Nº el. pré RMI: 980.0;Resultado RMI: 4.989723E7;2 Threads;Tempo de execução: ;2972222007
+1º el. pré RMI: 766.0;Nº el. pré RMI: 724.0;Resultado RMI: 4.9904164E7;2 Threads;Tempo de execução: ;3204102412
+1º el. pré RMI: 785.0;Nº el. pré RMI: 258.0;Resultado RMI: 4.9895338E7;2 Threads;Tempo de execução: ;3006520925
+
+
+Função ContaIntervalo
+
+1º el. pré RMI: 451.0;Nº el. pré RMI: 184.0;Resultado RMI: 2.510301E7;2 Threads;Tempo de execução: ;3059173060
+1º el. pré RMI: 730.0;Nº el. pré RMI: 637.0;Resultado RMI: 2.5097839E7;2 Threads;Tempo de execução: ;2998265130
+1º el. pré RMI: 362.0;Nº el. pré RMI: 109.0;Resultado RMI: 2.5096547E7;2 Threads;Tempo de execução: ;2979968742
+1º el. pré RMI: 214.0;Nº el. pré RMI: 416.0;Resultado RMI: 2.5102241E7;2 Threads;Tempo de execução: ;3206577490
+1º el. pré RMI: 729.0;Nº el. pré RMI: 900.0;Resultado RMI: 2.5103275E7;2 Threads;Tempo de execução: ;2985003617
+1º el. pré RMI: 498.0;Nº el. pré RMI: 986.0;Resultado RMI: 2.5095821E7;2 Threads;Tempo de execução: ;2984925279
+1º el. pré RMI: 746.0;Nº el. pré RMI: 844.0;Resultado RMI: 2.5103392E7;2 Threads;Tempo de execução: ;3214943903
+1º el. pré RMI: 942.0;Nº el. pré RMI: 801.0;Resultado RMI: 2.5100256E7;2 Threads;Tempo de execução: ;2981051700
+1º el. pré RMI: 35.0;Nº el. pré RMI: 630.0;Resultado RMI: 2.5098695E7;2 Threads;Tempo de execução: ;2994288716
+1º el. pré RMI: 653.0;Nº el. pré RMI: 681.0;Resultado RMI: 2.5095442E7;2 Threads;Tempo de execução: ;3197372597
+1º el. pré RMI: 241.0;Nº el. pré RMI: 163.0;Resultado RMI: 2.5092842E7;2 Threads;Tempo de execução: ;2997880264
+1º el. pré RMI: 485.0;Nº el. pré RMI: 653.0;Resultado RMI: 2.5107726E7;2 Threads;Tempo de execução: ;2988188154
+1º el. pré RMI: 917.0;Nº el. pré RMI: 622.0;Resultado RMI: 2.5095033E7;2 Threads;Tempo de execução: ;3213765359
+1º el. pré RMI: 994.0;Nº el. pré RMI: 234.0;Resultado RMI: 2.5099327E7;2 Threads;Tempo de execução: ;3001712824
+1º el. pré RMI: 379.0;Nº el. pré RMI: 609.0;Resultado RMI: 2.5093244E7;2 Threads;Tempo de execução: ;2957309985
+1º el. pré RMI: 764.0;Nº el. pré RMI: 18.0;Resultado RMI: 2.5099211E7;2 Threads;Tempo de execução: ;3193015142
+1º el. pré RMI: 398.0;Nº el. pré RMI: 593.0;Resultado RMI: 2.5098633E7;2 Threads;Tempo de execução: ;2997223327
+1º el. pré RMI: 902.0;Nº el. pré RMI: 267.0;Resultado RMI: 2.511091E7;2 Threads;Tempo de execução: ;2988121498
+1º el. pré RMI: 415.0;Nº el. pré RMI: 25.0;Resultado RMI: 2.5103204E7;2 Threads;Tempo de execução: ;3212951015
+1º el. pré RMI: 637.0;Nº el. pré RMI: 372.0;Resultado RMI: 2.5107061E7;2 Threads;Tempo de execução: ;2977282709
+
+
+Função Logaritmo
+
+1º el. pré RMI: 589.0;Nº el. pré RMI: 94.0;1º el. pós RMI: 9.20212382383046;Nº el. pós RMI: 6.554588851677638;4 Threads;Tempo de execução: ;6007732681
+1º el. pré RMI: 681.0;Nº el. pré RMI: 651.0;1º el. pós RMI: 9.41151098801207;Nº el. pós RMI: 9.346513733165635;4 Threads;Tempo de execução: ;6027165761
+1º el. pré RMI: 225.0;Nº el. pré RMI: 467.0;1º el. pós RMI: 7.813781191217037;Nº el. pós RMI: 8.867278739709663;4 Threads;Tempo de execução: ;5884767535
+1º el. pré RMI: 829.0;Nº el. pré RMI: 590.0;1º el. pós RMI: 9.69522829149575;Nº el. pós RMI: 9.204571144249204;4 Threads;Tempo de execução: ;6350888416
+1º el. pré RMI: 54.0;Nº el. pré RMI: 23.0;1º el. pós RMI: 5.754887502163469;Nº el. pós RMI: 4.523561956057013;4 Threads;Tempo de execução: ;5918800654
+1º el. pré RMI: 376.0;Nº el. pré RMI: 534.0;1º el. pós RMI: 8.554588851677638;Nº el. pós RMI: 9.060695931687555;4 Threads;Tempo de execução: ;5890935762
+1º el. pré RMI: 45.0;Nº el. pré RMI: 342.0;1º el. pós RMI: 5.491853096329675;Nº el. pós RMI: 8.417852514885897;4 Threads;Tempo de execução: ;6259001156
+1º el. pré RMI: 162.0;Nº el. pré RMI: 207.0;1º el. pós RMI: 7.339850002884624;Nº el. pós RMI: 7.693486957499325;4 Threads;Tempo de execução: ;6009315172
+1º el. pré RMI: 786.0;Nº el. pré RMI: 464.0;1º el. pós RMI: 9.618385502258606;Nº el. pós RMI: 8.857980995127573;4 Threads;Tempo de execução: ;5910483929
+1º el. pré RMI: 862.0;Nº el. pré RMI: 396.0;1º el. pós RMI: 9.751544059089097;Nº el. pós RMI: 8.62935662007961;4 Threads;Tempo de execução: ;6190113415
+1º el. pré RMI: 124.0;Nº el. pré RMI: 405.0;1º el. pós RMI: 6.954196310386876;Nº el. pós RMI: 8.661778097771986;4 Threads;Tempo de execução: ;6062488452
+1º el. pré RMI: 429.0;Nº el. pré RMI: 243.0;1º el. pós RMI: 8.744833837499545;Nº el. pós RMI: 7.924812503605781;4 Threads;Tempo de execução: ;5875256664
+1º el. pré RMI: 98.0;Nº el. pré RMI: 375.0;1º el. pós RMI: 6.614709844115209;Nº el. pós RMI: 8.550746785383243;4 Threads;Tempo de execução: ;5986585540
+1º el. pré RMI: 519.0;Nº el. pré RMI: 826.0;1º el. pós RMI: 9.019590728357882;Nº el. pós RMI: 9.689997971419444;4 Threads;Tempo de execução: ;5884320689
+1º el. pré RMI: 718.0;Nº el. pré RMI: 662.0;1º el. pós RMI: 9.487840033823051;Nº el. pós RMI: 9.370687406807217;4 Threads;Tempo de execução: ;6067895841
+1º el. pré RMI: 479.0;Nº el. pré RMI: 705.0;1º el. pós RMI: 8.90388184573618;Nº el. pós RMI: 9.461479447286157;4 Threads;Tempo de execução: ;6372433120
+1º el. pré RMI: 270.0;Nº el. pré RMI: 708.0;1º el. pós RMI: 8.076815597050832;Nº el. pós RMI: 9.467605550082997;4 Threads;Tempo de execução: ;5862308657
+1º el. pré RMI: 70.0;Nº el. pré RMI: 68.0;1º el. pós RMI: 6.129283016944967;Nº el. pós RMI: 6.08746284125034;4 Threads;Tempo de execução: ;5962537018
+1º el. pré RMI: 935.0;Nº el. pré RMI: 943.0;1º el. pós RMI: 9.868822554774999;Nº el. pós RMI: 9.881113960675098;4 Threads;Tempo de execução: ;6234943160
+1º el. pré RMI: 74.0;Nº el. pré RMI: 984.0;1º el. pós RMI: 6.209453365628951;Nº el. pós RMI: 9.94251450533924;4 Threads;Tempo de execução: ;5944816586
+
+
+Função Potência
+
+1º el. pré RMI: 194.0;Nº el. pré RMI: 72.0;1º el. pós RMI: 6.027996521399825E228;Nº el. pós RMI: 5.410652511578649E185;4 Threads;Tempo de execução: ;7329386964
+1º el. pré RMI: 516.0;Nº el. pré RMI: 989.0;1º el. pós RMI: 1.8406455394871436E271;Nº el. pós RMI: 3.308484921815499E299;4 Threads;Tempo de execução: ;7404497543
+1º el. pré RMI: 710.0;Nº el. pré RMI: 399.0;1º el. pós RMI: 1.336087410817899E285;Nº el. pós RMI: 1.2510929265423718E260;4 Threads;Tempo de execução: ;7285444540
+1º el. pré RMI: 772.0;Nº el. pré RMI: 427.0;1º el. pós RMI: 5.777368026225412E288;Nº el. pós RMI: 1.1035385334734292E263;4 Threads;Tempo de execução: ;7654930407
+1º el. pré RMI: 391.0;Nº el. pré RMI: 8.0;1º el. pós RMI: 1.6507288424500602E259;Nº el. pós RMI: 2.037035976334486E90;4 Threads;Tempo de execução: ;7476498089
+1º el. pré RMI: 929.0;Nº el. pré RMI: 47.0;1º el. pós RMI: 6.332444605132108E296;Nº el. pós RMI: 1.621010371591065E167;4 Threads;Tempo de execução: ;7284199163
+1º el. pré RMI: 193.0;Nº el. pré RMI: 311.0;1º el. pós RMI: 3.5952649493027206E228;Nº el. pós RMI: 1.8881604767807327E249;4 Threads;Tempo de execução: ;7481053749
+1º el. pré RMI: 942.0;Nº el. pré RMI: 15.0;1º el. pós RMI: 2.5415009670407245E297;Nº el. pós RMI: 4.0656117753521525E117;4 Threads;Tempo de execução: ;7315138895
+1º el. pré RMI: 643.0;Nº el. pré RMI: 246.0;1º el. pós RMI: 6.623648727639513E280;Nº el. pós RMI: 1.2402542112268372E239;4 Threads;Tempo de execução: ;7432965156
+1º el. pré RMI: 679.0;Nº el. pré RMI: 738.0;1º el. pós RMI: 1.5380746985847008E283;Nº el. pós RMI: 6.391991404595236E286;4 Threads;Tempo de execução: ;7673293707
+1º el. pré RMI: 357.0;Nº el. pré RMI: 325.0;1º el. pós RMI: 1.8485091779874142E255;Nº el. pós RMI: 1.5428940274478797E251;4 Threads;Tempo de execução: ;7288730193
+1º el. pré RMI: 896.0;Nº el. pré RMI: 144.0;1º el. pós RMI: 1.7013786010992062E295;Nº el. pós RMI: 6.8588169039290515E215;4 Threads;Tempo de execução: ;7444755140
+1º el. pré RMI: 222.0;Nº el. pré RMI: 15.0;1º el. pós RMI: 4.318147222684392E234;Nº el. pós RMI: 4.0656117753521525E117;4 Threads;Tempo de execução: ;7730083246
+1º el. pré RMI: 583.0;Nº el. pré RMI: 856.0;1º el. pós RMI: 3.6885483098933494E276;Nº el. pós RMI: 1.767569372431549E293;4 Threads;Tempo de execução: ;7484647645
+1º el. pré RMI: 804.0;Nº el. pré RMI: 675.0;1º el. pós RMI: 3.354322959537861E290;Nº el. pós RMI: 8.51877765590604E282;4 Threads;Tempo de execução: ;7482239129
+1º el. pré RMI: 725.0;Nº el. pré RMI: 254.0;1º el. pós RMI: 1.0809376827012187E286;Nº el. pós RMI: 3.0434884783377567E240;4 Threads;Tempo de execução: ;7604112964
+1º el. pré RMI: 245.0;Nº el. pré RMI: 234.0;1º el. pós RMI: 8.252935224762088E238;Nº el. pós RMI: 8.348063444710566E236;4 Threads;Tempo de execução: ;7309200817
+1º el. pré RMI: 412.0;Nº el. pré RMI: 289.0;1º el. pós RMI: 3.088315088865042E261;Nº el. pós RMI: 1.2296578189536153E246;4 Threads;Tempo de execução: ;7467398549
+1º el. pré RMI: 838.0;Nº el. pré RMI: 236.0;1º el. pós RMI: 2.110580216789088E292;Nº el. pós RMI: 1.9552410067947256E237;4 Threads;Tempo de execução: ;7676477939
+1º el. pré RMI: 675.0;Nº el. pré RMI: 270.0;1º el. pós RMI: 8.51877765590604E282;Nº el. pós RMI: 1.3689147905858837E243;4 Threads;Tempo de execução: ;7447897682
+
+
+Função Seno
+
+1º el. pré RMI: 726.0;Nº el. pré RMI: 556.0;1º el. pós RMI: -0.28796105219335977;Nº el. pós RMI: 0.061860164125145584;4 Threads;Tempo de execução: ;8504502178
+1º el. pré RMI: 964.0;Nº el. pré RMI: 1.0;1º el. pós RMI: 0.4519451186001038;Nº el. pós RMI: 0.8414709848078965;4 Threads;Tempo de execução: ;8655951070
+1º el. pré RMI: 761.0;Nº el. pré RMI: 606.0;1º el. pós RMI: 0.670273918142016;Nº el. pós RMI: 0.3215653171302501;4 Threads;Tempo de execução: ;8613684235
+1º el. pré RMI: 450.0;Nº el. pré RMI: 990.0;1º el. pós RMI: -0.6832837250355236;Nº el. pós RMI: -0.38786499061161595;4 Threads;Tempo de execução: ;8739772403
+1º el. pré RMI: 709.0;Nº el. pré RMI: 352.0;1º el. pós RMI: -0.8414384091513941;Nº el. pós RMI: 0.14114985067939137;4 Threads;Tempo de execução: ;8560072802
+1º el. pré RMI: 943.0;Nº el. pré RMI: 811.0;1º el. pós RMI: 0.49879153625744566;Nº el. pós RMI: 0.4520795641768173;4 Threads;Tempo de execução: ;8527258588
+1º el. pré RMI: 222.0;Nº el. pré RMI: 619.0;1º el. pós RMI: 0.8689508382163493;Nº el. pós RMI: -0.10604746068673451;4 Threads;Tempo de execução: ;8727795707
+1º el. pré RMI: 913.0;Nº el. pré RMI: 638.0;1º el. pós RMI: 0.9332880504589218;Nº el. pós RMI: -0.2538816765877605;4 Threads;Tempo de execução: ;8561066991
+1º el. pré RMI: 102.0;Nº el. pré RMI: 388.0;1º el. pós RMI: 0.9948267913584063;Nº el. pós RMI: -0.9999114594340064;4 Threads;Tempo de execução: ;8435848116
+1º el. pré RMI: 468.0;Nº el. pré RMI: 36.0;1º el. pós RMI: 0.09715190417988626;Nº el. pós RMI: -0.9917788534431158;4 Threads;Tempo de execução: ;8745433393
+1º el. pré RMI: 567.0;Nº el. pré RMI: 509.0;1º el. pós RMI: 0.9983488258124457;Nº el. pós RMI: 0.061950423737127995;4 Threads;Tempo de execução: ;8581798115
+1º el. pré RMI: 632.0;Nº el. pré RMI: 289.0;1º el. pós RMI: -0.514030170892537;Nº el. pós RMI: -0.026521020285755953;4 Threads;Tempo de execução: ;8671527502
+1º el. pré RMI: 759.0;Nº el. pré RMI: 90.0;1º el. pós RMI: -0.9537345286904526;Nº el. pós RMI: 0.8939966636005579;4 Threads;Tempo de execução: ;8824197913
+1º el. pré RMI: 436.0;Nº el. pré RMI: 33.0;1º el. pós RMI: 0.6298645812915785;Nº el. pós RMI: 0.9999118601072672;4 Threads;Tempo de execução: ;8638424190
+1º el. pré RMI: 885.0;Nº el. pré RMI: 761.0;1º el. pós RMI: -0.8010985118825478;Nº el. pós RMI: 0.670273918142016;4 Threads;Tempo de execução: ;8585944291
+1º el. pré RMI: 668.0;Nº el. pré RMI: 141.0;1º el. pós RMI: 0.9164974316526442;Nº el. pós RMI: 0.363171365373259;4 Threads;Tempo de execução: ;8964700398
+1º el. pré RMI: 306.0;Nº el. pré RMI: 546.0;1º el. pós RMI: -0.9537617134939987;Nº el. pós RMI: -0.5948843183590627;4 Threads;Tempo de execução: ;8446275940
+1º el. pré RMI: 445.0;Nº el. pré RMI: 498.0;1º el. pós RMI: -0.8939831563049628;Nº el. pós RMI: 0.9983436270438855;4 Threads;Tempo de execução: ;8499425801
+1º el. pré RMI: 881.0;Nº el. pré RMI: 667.0;1º el. pós RMI: 0.9766038345872008;Nº el. pós RMI: 0.8318082081799767;4 Threads;Tempo de execução: ;8758360652
+1º el. pré RMI: 30.0;Nº el. pré RMI: 683.0;1º el. pós RMI: -0.9880316240928618;Nº el. pós RMI: -0.9563935393373727;4 Threads;Tempo de execução: ;8591644913
+
+
+Função Média
+
+1º el. pré RMI: 55.0;Nº el. pré RMI: 291.0;Resultado RMI: 499.5153868298766;4 Threads;Tempo de execução: ;2745393571
+1º el. pré RMI: 326.0;Nº el. pré RMI: 468.0;Resultado RMI: 499.5058315498377;4 Threads;Tempo de execução: ;2702623560
+1º el. pré RMI: 453.0;Nº el. pré RMI: 474.0;Resultado RMI: 499.4911546898428;4 Threads;Tempo de execução: ;2705507416
+1º el. pré RMI: 634.0;Nº el. pré RMI: 855.0;Resultado RMI: 499.51606307982047;4 Threads;Tempo de execução: ;2971967844
+1º el. pré RMI: 490.0;Nº el. pré RMI: 510.0;Resultado RMI: 499.5056041697119;4 Threads;Tempo de execução: ;2713294089
+1º el. pré RMI: 23.0;Nº el. pré RMI: 391.0;Resultado RMI: 499.52648793983434;4 Threads;Tempo de execução: ;2685317860
+1º el. pré RMI: 641.0;Nº el. pré RMI: 415.0;Resultado RMI: 499.542326769802;4 Threads;Tempo de execução: ;2919705452
+1º el. pré RMI: 666.0;Nº el. pré RMI: 572.0;Resultado RMI: 499.5205913098796;4 Threads;Tempo de execução: ;2714012212
+1º el. pré RMI: 65.0;Nº el. pré RMI: 76.0;Resultado RMI: 499.5072107898186;4 Threads;Tempo de execução: ;2736103998
+1º el. pré RMI: 836.0;Nº el. pré RMI: 45.0;Resultado RMI: 499.5513359197671;4 Threads;Tempo de execução: ;2979366779
+1º el. pré RMI: 578.0;Nº el. pré RMI: 326.0;Resultado RMI: 499.52482856981186;4 Threads;Tempo de execução: ;2730599792
+1º el. pré RMI: 269.0;Nº el. pré RMI: 672.0;Resultado RMI: 499.44569670977353;4 Threads;Tempo de execução: ;2740414359
+1º el. pré RMI: 894.0;Nº el. pré RMI: 698.0;Resultado RMI: 499.518515389787;4 Threads;Tempo de execução: ;3021347756
+1º el. pré RMI: 931.0;Nº el. pré RMI: 397.0;Resultado RMI: 499.57667262977793;4 Threads;Tempo de execução: ;2724465845
+1º el. pré RMI: 180.0;Nº el. pré RMI: 723.0;Resultado RMI: 499.50622874977546;4 Threads;Tempo de execução: ;2689687853
+1º el. pré RMI: 618.0;Nº el. pré RMI: 512.0;Resultado RMI: 499.5395118597492;4 Threads;Tempo de execução: ;3126939104
+1º el. pré RMI: 41.0;Nº el. pré RMI: 672.0;Resultado RMI: 499.5816355398009;4 Threads;Tempo de execução: ;2755673213
+1º el. pré RMI: 691.0;Nº el. pré RMI: 141.0;Resultado RMI: 499.508882989775;4 Threads;Tempo de execução: ;2696166157
+1º el. pré RMI: 345.0;Nº el. pré RMI: 562.0;Resultado RMI: 499.4753463897301;4 Threads;Tempo de execução: ;3022195156
+1º el. pré RMI: 136.0;Nº el. pré RMI: 838.0;Resultado RMI: 499.50007884976856;4 Threads;Tempo de execução: ;2725627339
+
+
+Função ContaMaiorQue
+
+1º el. pré RMI: 36.0;Nº el. pré RMI: 442.0;Resultado RMI: 4.9897342E7;4 Threads;Tempo de execução: ;2702051914
+1º el. pré RMI: 310.0;Nº el. pré RMI: 58.0;Resultado RMI: 4.9907603E7;4 Threads;Tempo de execução: ;2609055249
+1º el. pré RMI: 224.0;Nº el. pré RMI: 169.0;Resultado RMI: 4.9906546E7;4 Threads;Tempo de execução: ;2537321648
+1º el. pré RMI: 209.0;Nº el. pré RMI: 76.0;Resultado RMI: 4.9898036E7;4 Threads;Tempo de execução: ;2896826631
+1º el. pré RMI: 792.0;Nº el. pré RMI: 69.0;Resultado RMI: 4.9898719E7;4 Threads;Tempo de execução: ;2643828660
+1º el. pré RMI: 18.0;Nº el. pré RMI: 947.0;Resultado RMI: 4.9904164E7;4 Threads;Tempo de execução: ;2525571012
+1º el. pré RMI: 20.0;Nº el. pré RMI: 39.0;Resultado RMI: 4.98962E7;4 Threads;Tempo de execução: ;2868297687
+1º el. pré RMI: 304.0;Nº el. pré RMI: 596.0;Resultado RMI: 4.9895054E7;4 Threads;Tempo de execução: ;2566987048
+1º el. pré RMI: 401.0;Nº el. pré RMI: 879.0;Resultado RMI: 4.9901593E7;4 Threads;Tempo de execução: ;2576303827
+1º el. pré RMI: 390.0;Nº el. pré RMI: 787.0;Resultado RMI: 4.9897276E7;4 Threads;Tempo de execução: ;2877764772
+1º el. pré RMI: 117.0;Nº el. pré RMI: 313.0;Resultado RMI: 4.989645E7;4 Threads;Tempo de execução: ;2575549242
+1º el. pré RMI: 997.0;Nº el. pré RMI: 233.0;Resultado RMI: 4.990119E7;4 Threads;Tempo de execução: ;2617471175
+1º el. pré RMI: 510.0;Nº el. pré RMI: 563.0;Resultado RMI: 4.9891694E7;4 Threads;Tempo de execução: ;2871875203
+1º el. pré RMI: 900.0;Nº el. pré RMI: 354.0;Resultado RMI: 4.9896075E7;4 Threads;Tempo de execução: ;2582012060
+1º el. pré RMI: 22.0;Nº el. pré RMI: 469.0;Resultado RMI: 4.9891982E7;4 Threads;Tempo de execução: ;2613644482
+1º el. pré RMI: 526.0;Nº el. pré RMI: 215.0;Resultado RMI: 4.9897608E7;4 Threads;Tempo de execução: ;2953186972
+1º el. pré RMI: 642.0;Nº el. pré RMI: 228.0;Resultado RMI: 4.9892684E7;4 Threads;Tempo de execução: ;2615302867
+1º el. pré RMI: 644.0;Nº el. pré RMI: 585.0;Resultado RMI: 4.9893001E7;4 Threads;Tempo de execução: ;2621355927
+1º el. pré RMI: 521.0;Nº el. pré RMI: 779.0;Resultado RMI: 4.9891251E7;4 Threads;Tempo de execução: ;2885216109
+1º el. pré RMI: 201.0;Nº el. pré RMI: 894.0;Resultado RMI: 4.9893571E7;4 Threads;Tempo de execução: ;2636115938
+
+
+Função ContaIntervalo
+
+1º el. pré RMI: 52.0;Nº el. pré RMI: 337.0;Resultado RMI: 2.51042E7;4 Threads;Tempo de execução: ;2712682804
+1º el. pré RMI: 418.0;Nº el. pré RMI: 169.0;Resultado RMI: 2.5096998E7;4 Threads;Tempo de execução: ;2549299117
+1º el. pré RMI: 41.0;Nº el. pré RMI: 543.0;Resultado RMI: 2.5099002E7;4 Threads;Tempo de execução: ;2646265362
+1º el. pré RMI: 309.0;Nº el. pré RMI: 728.0;Resultado RMI: 2.5110298E7;4 Threads;Tempo de execução: ;2872456721
+1º el. pré RMI: 444.0;Nº el. pré RMI: 673.0;Resultado RMI: 2.5092376E7;4 Threads;Tempo de execução: ;2620040830
+1º el. pré RMI: 719.0;Nº el. pré RMI: 570.0;Resultado RMI: 2.5097502E7;4 Threads;Tempo de execução: ;2622814504
+1º el. pré RMI: 188.0;Nº el. pré RMI: 643.0;Resultado RMI: 2.5101495E7;4 Threads;Tempo de execução: ;2884688381
+1º el. pré RMI: 40.0;Nº el. pré RMI: 727.0;Resultado RMI: 2.5101485E7;4 Threads;Tempo de execução: ;2636952293
+1º el. pré RMI: 289.0;Nº el. pré RMI: 173.0;Resultado RMI: 2.5097218E7;4 Threads;Tempo de execução: ;2637681246
+1º el. pré RMI: 811.0;Nº el. pré RMI: 725.0;Resultado RMI: 2.5096885E7;4 Threads;Tempo de execução: ;2874170613
+1º el. pré RMI: 714.0;Nº el. pré RMI: 973.0;Resultado RMI: 2.5096824E7;4 Threads;Tempo de execução: ;2618378473
+1º el. pré RMI: 372.0;Nº el. pré RMI: 695.0;Resultado RMI: 2.509381E7;4 Threads;Tempo de execução: ;2595597425
+1º el. pré RMI: 918.0;Nº el. pré RMI: 851.0;Resultado RMI: 2.5098861E7;4 Threads;Tempo de execução: ;2851916156
+1º el. pré RMI: 940.0;Nº el. pré RMI: 14.0;Resultado RMI: 2.5097402E7;4 Threads;Tempo de execução: ;2575235068
+1º el. pré RMI: 308.0;Nº el. pré RMI: 302.0;Resultado RMI: 2.5099134E7;4 Threads;Tempo de execução: ;2550213623
+1º el. pré RMI: 63.0;Nº el. pré RMI: 92.0;Resultado RMI: 2.509652E7;4 Threads;Tempo de execução: ;2917830076
+1º el. pré RMI: 669.0;Nº el. pré RMI: 593.0;Resultado RMI: 2.5104507E7;4 Threads;Tempo de execução: ;2580249180
+1º el. pré RMI: 26.0;Nº el. pré RMI: 695.0;Resultado RMI: 2.5099598E7;4 Threads;Tempo de execução: ;2635193566
+1º el. pré RMI: 810.0;Nº el. pré RMI: 102.0;Resultado RMI: 2.5095477E7;4 Threads;Tempo de execução: ;2914632103
+1º el. pré RMI: 834.0;Nº el. pré RMI: 120.0;Resultado RMI: 2.5106928E7;4 Threads;Tempo de execução: ;2581405320
+
+
+Função Logaritmo
+
+1º el. pré RMI: 522.0;Nº el. pré RMI: 553.0;1º el. pós RMI: 9.027905996569885;Nº el. pós RMI: 9.111135670234708;8 Threads;Tempo de execução: ;5876583996
+1º el. pré RMI: 502.0;Nº el. pré RMI: 770.0;1º el. pós RMI: 8.971543553950772;Nº el. pós RMI: 9.588714635582264;8 Threads;Tempo de execução: ;5922313752
+1º el. pré RMI: 235.0;Nº el. pré RMI: 549.0;1º el. pós RMI: 7.876516946565;Nº el. pós RMI: 9.100662339005199;8 Threads;Tempo de execução: ;5778315803
+1º el. pré RMI: 652.0;Nº el. pré RMI: 741.0;1º el. pós RMI: 9.348728154231079;Nº el. pós RMI: 9.533329732305834;8 Threads;Tempo de execução: ;6075002971
+1º el. pré RMI: 454.0;Nº el. pré RMI: 421.0;1º el. pós RMI: 8.826548487290916;Nº el. pós RMI: 8.717676423066395;8 Threads;Tempo de execução: ;5727473634
+1º el. pré RMI: 294.0;Nº el. pré RMI: 356.0;1º el. pós RMI: 8.199672344836364;Nº el. pós RMI: 8.475733430966399;8 Threads;Tempo de execução: ;5663302024
+1º el. pré RMI: 15.0;Nº el. pré RMI: 357.0;1º el. pós RMI: 3.9068905956085187;Nº el. pós RMI: 8.479780264029099;8 Threads;Tempo de execução: ;5941965454
+1º el. pré RMI: 410.0;Nº el. pré RMI: 946.0;1º el. pós RMI: 8.679480099505447;Nº el. pós RMI: 9.885696373339394;8 Threads;Tempo de execução: ;5804493152
+1º el. pré RMI: 779.0;Nº el. pré RMI: 477.0;1º el. pós RMI: 9.605479518061669;Nº el. pós RMI: 8.897845456005513;8 Threads;Tempo de execução: ;5709900182
+1º el. pré RMI: 938.0;Nº el. pré RMI: 599.0;1º el. pós RMI: 9.873444112515378;Nº el. pós RMI: 9.226412192788786;8 Threads;Tempo de execução: ;6428479159
+1º el. pré RMI: 498.0;Nº el. pré RMI: 62.0;1º el. pós RMI: 8.960001932068081;Nº el. pós RMI: 5.954196310386876;8 Threads;Tempo de execução: ;5817769223
+1º el. pré RMI: 726.0;Nº el. pré RMI: 199.0;1º el. pós RMI: 9.50382573799575;Nº el. pós RMI: 7.636624620543649;8 Threads;Tempo de execução: ;5722099167
+1º el. pré RMI: 715.0;Nº el. pré RMI: 141.0;1º el. pós RMI: 9.481799431665753;Nº el. pós RMI: 7.139551352398794;8 Threads;Tempo de execução: ;5883815879
+1º el. pré RMI: 576.0;Nº el. pré RMI: 218.0;1º el. pós RMI: 9.169925001442314;Nº el. pós RMI: 7.768184324776926;8 Threads;Tempo de execução: ;5748346860
+1º el. pré RMI: 790.0;Nº el. pré RMI: 767.0;1º el. pós RMI: 9.625708843064466;Nº el. pós RMI: 9.583082767502933;8 Threads;Tempo de execução: ;5745284835
+1º el. pré RMI: 282.0;Nº el. pré RMI: 193.0;1º el. pós RMI: 8.139551352398794;Nº el. pós RMI: 7.592457037268081;8 Threads;Tempo de execução: ;5973896883
+1º el. pré RMI: 569.0;Nº el. pré RMI: 47.0;1º el. pós RMI: 9.152284842306582;Nº el. pós RMI: 5.554588851677638;8 Threads;Tempo de execução: ;5825800369
+1º el. pré RMI: 75.0;Nº el. pré RMI: 391.0;1º el. pós RMI: 6.22881869049588;Nº el. pós RMI: 8.611024797307353;8 Threads;Tempo de execução: ;5777709356
+1º el. pré RMI: 289.0;Nº el. pré RMI: 635.0;1º el. pós RMI: 8.17492568250068;Nº el. pós RMI: 9.310612781659529;8 Threads;Tempo de execução: ;5852097304
+1º el. pré RMI: 190.0;Nº el. pré RMI: 856.0;1º el. pós RMI: 7.569855608330948;Nº el. pós RMI: 9.741466986401146;8 Threads;Tempo de execução: ;5887712891
+
+
+Função Potência
+
+1º el. pré RMI: 905.0;Nº el. pré RMI: 472.0;1º el. pós RMI: 4.622297781465853E295;Nº el. pós RMI: 2.4785624358541815E267;8 Threads;Tempo de execução: ;7592366656
+1º el. pré RMI: 985.0;Nº el. pré RMI: 438.0;1º el. pós RMI: 2.2060891046938757E299;Nº el. pós RMI: 1.4041420661716789E264;8 Threads;Tempo de execução: ;7206296235
+1º el. pré RMI: 185.0;Nº el. pré RMI: 597.0;1º el. pós RMI: 5.214021771972398E226;Nº el. pós RMI: 3.957611077251597E277;8 Threads;Tempo de execução: ;7226808519
+1º el. pré RMI: 184.0;Nº el. pré RMI: 413.0;1º el. pós RMI: 3.032370764906637E226;Nº el. pós RMI: 3.9355475649646975E261;8 Threads;Tempo de execução: ;7510307463
+1º el. pré RMI: 338.0;Nº el. pré RMI: 923.0;1º el. pós RMI: 7.792378291007391E252;Nº el. pós RMI: 3.312608428960434E296;8 Threads;Tempo de execução: ;7199390916
+1º el. pré RMI: 539.0;Nº el. pré RMI: 274.0;1º el. pós RMI: 1.4417053785451176E273;Nº el. pós RMI: 5.957393428803497E243;8 Threads;Tempo de execução: ;7204268745
+1º el. pré RMI: 81.0;Nº el. pré RMI: 544.0;1º el. pós RMI: 7.055079108655333E190;Nº el. pós RMI: 3.62986079196254E273;8 Threads;Tempo de execução: ;7508097142
+1º el. pré RMI: 707.0;Nº el. pré RMI: 511.0;1º el. pós RMI: 8.748656794172113E284;Nº el. pós RMI: 6.951683858140889E270;8 Threads;Tempo de execução: ;7154307281
+1º el. pré RMI: 72.0;Nº el. pré RMI: 212.0;1º el. pós RMI: 5.410652511578649E185;Nº el. pós RMI: 4.301164898258263E232;8 Threads;Tempo de execução: ;7055846364
+1º el. pré RMI: 471.0;Nº el. pré RMI: 466.0;1º el. pós RMI: 2.0048907534798228E267;Nº el. pós RMI: 6.895911337229432E266;8 Threads;Tempo de execução: ;7884301625
+1º el. pré RMI: 485.0;Nº el. pré RMI: 782.0;1º el. pós RMI: 3.751231444756493E268;Nº el. pós RMI: 2.092547407945869E289;8 Threads;Tempo de execução: ;7259463377
+1º el. pré RMI: 943.0;Nº el. pré RMI: 438.0;1º el. pós RMI: 2.8259812350036167E297;Nº el. pós RMI: 1.4041420661716789E264;8 Threads;Tempo de execução: ;7176654525
+1º el. pré RMI: 630.0;Nº el. pré RMI: 39.0;1º el. pós RMI: 8.591222076467487E279;Nº el. pós RMI: 1.2777935825534692E159;8 Threads;Tempo de execução: ;7439125802
+1º el. pré RMI: 82.0;Nº el. pré RMI: 458.0;1º el. pós RMI: 2.406496522132464E191;Nº el. pós RMI: 1.2205281501214925E266;8 Threads;Tempo de execução: ;7259675630
+1º el. pré RMI: 285.0;Nº el. pré RMI: 457.0;1º el. pós RMI: 3.051307670997178E245;Nº el. pós RMI: 9.80889322388952E265;8 Threads;Tempo de execução: ;7233957348
+1º el. pré RMI: 933.0;Nº el. pré RMI: 769.0;1º el. pós RMI: 9.731154652674263E296;Nº el. pós RMI: 3.914118593277801E288;8 Threads;Tempo de execução: ;7555145599
+1º el. pré RMI: 787.0;Nº el. pré RMI: 141.0;1º el. pós RMI: 3.957976724181632E289;Nº el. pós RMI: 8.354323063914795E214;8 Threads;Tempo de execução: ;7241090124
+1º el. pré RMI: 572.0;Nº el. pré RMI: 482.0;1º el. pós RMI: 5.4903860105057396E275;Nº el. pós RMI: 2.016990366193055E268;8 Threads;Tempo de execução: ;7203018593
+1º el. pré RMI: 612.0;Nº el. pré RMI: 560.0;1º el. pós RMI: 4.7330622297217475E278;Nº el. pós RMI: 6.5887450147144295E274;8 Threads;Tempo de execução: ;7408929922
+1º el. pré RMI: 700.0;Nº el. pré RMI: 848.0;1º el. pós RMI: 3.234476509624758E284;Nº el. pós RMI: 6.911705509642552E292;8 Threads;Tempo de execução: ;7198629581
+
+
+Função Seno
+
+1º el. pré RMI: 758.0;Nº el. pré RMI: 947.0;1º el. pós RMI: -0.7682932534017909;Nº el. pós RMI: -0.9819692685810417;8 Threads;Tempo de execução: ;8609339218
+1º el. pré RMI: 991.0;Nº el. pré RMI: 824.0;1º el. pós RMI: -0.9851617853645876;Nº el. pós RMI: 0.7850177373512154;8 Threads;Tempo de execução: ;8165629713
+1º el. pré RMI: 938.0;Nº el. pré RMI: 533.0;1º el. pós RMI: 0.9726090503206481;Nº el. pós RMI: -0.8775608830339849;8 Threads;Tempo de execução: ;8413127221
+1º el. pré RMI: 134.0;Nº el. pré RMI: 622.0;1º el. pós RMI: 0.8859248164599484;Nº el. pós RMI: -0.03533805174655298;8 Threads;Tempo de execução: ;8690398419
+1º el. pré RMI: 528.0;Nº el. pré RMI: 160.0;1º el. pós RMI: 0.21083999973521134;Nº el. pós RMI: 0.21942525837900473;8 Threads;Tempo de execução: ;8314444179
+1º el. pré RMI: 275.0;Nº el. pré RMI: 463.0;1º el. pós RMI: -0.9938853259197261;Nº el. pós RMI: -0.9268298244906983;8 Threads;Tempo de execução: ;8188494172
+1º el. pré RMI: 358.0;Nº el. pré RMI: 945.0;1º el. pós RMI: -0.14109016531210986;Nº el. pós RMI: 0.5805375529616218;8 Threads;Tempo de execução: ;8543272782
+1º el. pré RMI: 239.0;Nº el. pré RMI: 341.0;1º el. pós RMI: 0.2366906812750767;Nº el. pós RMI: 0.9906032333897737;8 Threads;Tempo de execução: ;8260683375
+1º el. pré RMI: 329.0;Nº el. pré RMI: 338.0;1º el. pós RMI: 0.7625389491684939;Nº el. pós RMI: -0.9613891968218607;8 Threads;Tempo de execução: ;8329037862
+1º el. pré RMI: 339.0;Nº el. pré RMI: 80.0;1º el. pós RMI: -0.2878744485084861;Nº el. pós RMI: -0.9938886539233752;8 Threads;Tempo de execução: ;8663232935
+1º el. pré RMI: 927.0;Nº el. pré RMI: 963.0;1º el. pós RMI: -0.22814030861707352;Nº el. pós RMI: 0.9948176005844565;8 Threads;Tempo de execução: ;8380585967
+1º el. pré RMI: 747.0;Nº el. pré RMI: 917.0;1º el. pós RMI: -0.643491986364181;Nº el. pós RMI: -0.33824829305217113;8 Threads;Tempo de execução: ;8375934445
+1º el. pré RMI: 923.0;Nº el. pré RMI: 595.0;1º el. pós RMI: -0.5877218435224411;Nº el. pós RMI: -0.9454549749583542;8 Threads;Tempo de execução: ;8403488841
+1º el. pré RMI: 524.0;Nº el. pré RMI: 787.0;1º el. pós RMI: 0.6019757972528995;Nº el. pós RMI: 0.9995182893196364;8 Threads;Tempo de execução: ;8362844610
+1º el. pré RMI: 252.0;Nº el. pré RMI: 676.0;1º el. pós RMI: 0.623012211003653;Nº el. pós RMI: -0.5291338443628917;8 Threads;Tempo de execução: ;8308785870
+1º el. pré RMI: 392.0;Nº el. pré RMI: 401.0;1º el. pós RMI: 0.6435150601529656;Nº el. pós RMI: -0.9017753195144049;8 Threads;Tempo de execução: ;8642162349
+1º el. pré RMI: 259.0;Nº el. pré RMI: 955.0;1º el. pós RMI: 0.9835931839466808;Nº el. pós RMI: -0.044152333395038934;8 Threads;Tempo de execução: ;8363187251
+1º el. pré RMI: 99.0;Nº el. pré RMI: 576.0;1º el. pós RMI: -0.9992068341863537;Nº el. pós RMI: -0.8859527784925297;8 Threads;Tempo de execução: ;8287853243
+1º el. pré RMI: 230.0;Nº el. pré RMI: 548.0;1º el. pós RMI: -0.6160642040533645;Nº el. pós RMI: 0.9784627975617406;8 Threads;Tempo de execução: ;8604400008
+1º el. pré RMI: 894.0;Nº el. pré RMI: 646.0;1º el. pós RMI: 0.9765714113225485;Nº el. pós RMI: -0.9200024119591381;8 Threads;Tempo de execução: ;8181787674
+
+
+Função Média
+
+1º el. pré RMI: 198.0;Nº el. pré RMI: 419.0;Resultado RMI: 499.49882705019604;8 Threads;Tempo de execução: ;2834647762
+1º el. pré RMI: 163.0;Nº el. pré RMI: 606.0;Resultado RMI: 499.47525997020523;8 Threads;Tempo de execução: ;2596812656
+1º el. pré RMI: 439.0;Nº el. pré RMI: 271.0;Resultado RMI: 499.4804806901809;8 Threads;Tempo de execução: ;2689694406
+1º el. pré RMI: 985.0;Nº el. pré RMI: 765.0;Resultado RMI: 499.49758476019457;8 Threads;Tempo de execução: ;2963464952
+1º el. pré RMI: 561.0;Nº el. pré RMI: 404.0;Resultado RMI: 499.4805507502014;8 Threads;Tempo de execução: ;2660601446
+1º el. pré RMI: 779.0;Nº el. pré RMI: 635.0;Resultado RMI: 499.50480834019015;8 Threads;Tempo de execução: ;2553024752
+1º el. pré RMI: 707.0;Nº el. pré RMI: 292.0;Resultado RMI: 499.47830384019727;8 Threads;Tempo de execução: ;2948641185
+1º el. pré RMI: 709.0;Nº el. pré RMI: 450.0;Resultado RMI: 499.49975555018574;8 Threads;Tempo de execução: ;2723716949
+1º el. pré RMI: 528.0;Nº el. pré RMI: 425.0;Resultado RMI: 499.4714257601894;8 Threads;Tempo de execução: ;2720846577
+1º el. pré RMI: 76.0;Nº el. pré RMI: 841.0;Resultado RMI: 499.4717678401918;8 Threads;Tempo de execução: ;3117032918
+1º el. pré RMI: 144.0;Nº el. pré RMI: 36.0;Resultado RMI: 499.49391628019646;8 Threads;Tempo de execução: ;2583523472
+1º el. pré RMI: 120.0;Nº el. pré RMI: 808.0;Resultado RMI: 499.49086667020373;8 Threads;Tempo de execução: ;2683123160
+1º el. pré RMI: 796.0;Nº el. pré RMI: 67.0;Resultado RMI: 499.4871360301517;8 Threads;Tempo de execução: ;3026666794
+1º el. pré RMI: 926.0;Nº el. pré RMI: 184.0;Resultado RMI: 499.4675540901881;8 Threads;Tempo de execução: ;2646273700
+1º el. pré RMI: 734.0;Nº el. pré RMI: 830.0;Resultado RMI: 499.5216273101814;8 Threads;Tempo de execução: ;2703114924
+1º el. pré RMI: 271.0;Nº el. pré RMI: 784.0;Resultado RMI: 499.4752259001877;8 Threads;Tempo de execução: ;2880175807
+1º el. pré RMI: 419.0;Nº el. pré RMI: 962.0;Resultado RMI: 499.4735473501848;8 Threads;Tempo de execução: ;2715698132
+1º el. pré RMI: 808.0;Nº el. pré RMI: 611.0;Resultado RMI: 499.56773437017983;8 Threads;Tempo de execução: ;2661007001
+1º el. pré RMI: 171.0;Nº el. pré RMI: 662.0;Resultado RMI: 499.5206730802222;8 Threads;Tempo de execução: ;2886166827
+1º el. pré RMI: 37.0;Nº el. pré RMI: 566.0;Resultado RMI: 499.49382189019843;8 Threads;Tempo de execução: ;2697230910
+
+
+Função ContaMaiorQue
+
+1º el. pré RMI: 588.0;Nº el. pré RMI: 567.0;Resultado RMI: 4.989729E7;8 Threads;Tempo de execução: ;2628401256
+1º el. pré RMI: 489.0;Nº el. pré RMI: 560.0;Resultado RMI: 4.9906961E7;8 Threads;Tempo de execução: ;2503463166
+1º el. pré RMI: 192.0;Nº el. pré RMI: 324.0;Resultado RMI: 4.990837E7;8 Threads;Tempo de execução: ;2556053513
+1º el. pré RMI: 171.0;Nº el. pré RMI: 390.0;Resultado RMI: 4.9890693E7;8 Threads;Tempo de execução: ;2813031118
+1º el. pré RMI: 11.0;Nº el. pré RMI: 9.0;Resultado RMI: 4.9902989E7;8 Threads;Tempo de execução: ;2561669858
+1º el. pré RMI: 511.0;Nº el. pré RMI: 766.0;Resultado RMI: 4.990015E7;8 Threads;Tempo de execução: ;2604735682
+1º el. pré RMI: 540.0;Nº el. pré RMI: 90.0;Resultado RMI: 4.9898862E7;8 Threads;Tempo de execução: ;2809047630
+1º el. pré RMI: 266.0;Nº el. pré RMI: 990.0;Resultado RMI: 4.9910923E7;8 Threads;Tempo de execução: ;2560933589
+1º el. pré RMI: 543.0;Nº el. pré RMI: 676.0;Resultado RMI: 4.9899743E7;8 Threads;Tempo de execução: ;2575099110
+1º el. pré RMI: 325.0;Nº el. pré RMI: 594.0;Resultado RMI: 4.9892803E7;8 Threads;Tempo de execução: ;3005626261
+1º el. pré RMI: 413.0;Nº el. pré RMI: 987.0;Resultado RMI: 4.9898018E7;8 Threads;Tempo de execução: ;2490637015
+1º el. pré RMI: 891.0;Nº el. pré RMI: 697.0;Resultado RMI: 4.9900299E7;8 Threads;Tempo de execução: ;2589384728
+1º el. pré RMI: 907.0;Nº el. pré RMI: 923.0;Resultado RMI: 4.9896943E7;8 Threads;Tempo de execução: ;2880000695
+1º el. pré RMI: 358.0;Nº el. pré RMI: 822.0;Resultado RMI: 4.9897372E7;8 Threads;Tempo de execução: ;2532392513
+1º el. pré RMI: 871.0;Nº el. pré RMI: 398.0;Resultado RMI: 4.9903991E7;8 Threads;Tempo de execução: ;2534200521
+1º el. pré RMI: 336.0;Nº el. pré RMI: 429.0;Resultado RMI: 4.9904049E7;8 Threads;Tempo de execução: ;2746786889
+1º el. pré RMI: 725.0;Nº el. pré RMI: 716.0;Resultado RMI: 4.9899605E7;8 Threads;Tempo de execução: ;2588580210
+1º el. pré RMI: 607.0;Nº el. pré RMI: 936.0;Resultado RMI: 4.9908497E7;8 Threads;Tempo de execução: ;2541988873
+1º el. pré RMI: 218.0;Nº el. pré RMI: 72.0;Resultado RMI: 4.9892844E7;8 Threads;Tempo de execução: ;2771625988
+1º el. pré RMI: 926.0;Nº el. pré RMI: 8.0;Resultado RMI: 4.9896716E7;8 Threads;Tempo de execução: ;2510042850
+
+
+Função ContaIntervalo
+
+1º el. pré RMI: 401.0;Nº el. pré RMI: 815.0;Resultado RMI: 2.5098249E7;8 Threads;Tempo de execução: ;2628357065
+1º el. pré RMI: 580.0;Nº el. pré RMI: 515.0;Resultado RMI: 2.5100709E7;8 Threads;Tempo de execução: ;2506229353
+1º el. pré RMI: 0.0;Nº el. pré RMI: 320.0;Resultado RMI: 2.5098592E7;8 Threads;Tempo de execução: ;2562355834
+1º el. pré RMI: 901.0;Nº el. pré RMI: 246.0;Resultado RMI: 2.5099312E7;8 Threads;Tempo de execução: ;2810447064
+1º el. pré RMI: 696.0;Nº el. pré RMI: 822.0;Resultado RMI: 2.51001E7;8 Threads;Tempo de execução: ;2538986917
+1º el. pré RMI: 735.0;Nº el. pré RMI: 203.0;Resultado RMI: 2.5107434E7;8 Threads;Tempo de execução: ;2581688484
+1º el. pré RMI: 623.0;Nº el. pré RMI: 608.0;Resultado RMI: 2.5104739E7;8 Threads;Tempo de execução: ;2792696669
+1º el. pré RMI: 367.0;Nº el. pré RMI: 443.0;Resultado RMI: 2.5099531E7;8 Threads;Tempo de execução: ;2534828832
+1º el. pré RMI: 936.0;Nº el. pré RMI: 74.0;Resultado RMI: 2.5100431E7;8 Threads;Tempo de execução: ;2577015066
+1º el. pré RMI: 718.0;Nº el. pré RMI: 200.0;Resultado RMI: 2.5102944E7;8 Threads;Tempo de execução: ;3050840359
+1º el. pré RMI: 728.0;Nº el. pré RMI: 895.0;Resultado RMI: 2.5101337E7;8 Threads;Tempo de execução: ;2492459556
+1º el. pré RMI: 229.0;Nº el. pré RMI: 845.0;Resultado RMI: 2.5098197E7;8 Threads;Tempo de execução: ;2513646449
+1º el. pré RMI: 768.0;Nº el. pré RMI: 12.0;Resultado RMI: 2.5096842E7;8 Threads;Tempo de execução: ;2855231903
+1º el. pré RMI: 325.0;Nº el. pré RMI: 685.0;Resultado RMI: 2.5102842E7;8 Threads;Tempo de execução: ;2494702268
+1º el. pré RMI: 865.0;Nº el. pré RMI: 745.0;Resultado RMI: 2.5101046E7;8 Threads;Tempo de execução: ;2475861528
+1º el. pré RMI: 914.0;Nº el. pré RMI: 945.0;Resultado RMI: 2.5094279E7;8 Threads;Tempo de execução: ;2740816886
+1º el. pré RMI: 298.0;Nº el. pré RMI: 579.0;Resultado RMI: 2.5103212E7;8 Threads;Tempo de execução: ;2570896605
+1º el. pré RMI: 435.0;Nº el. pré RMI: 945.0;Resultado RMI: 2.5101941E7;8 Threads;Tempo de execução: ;2614638917
+1º el. pré RMI: 386.0;Nº el. pré RMI: 873.0;Resultado RMI: 2.5094968E7;8 Threads;Tempo de execução: ;2730612484
+1º el. pré RMI: 952.0;Nº el. pré RMI: 718.0;Resultado RMI: 2.5103728E7;8 Threads;Tempo de execução: ;2528181545
+
+
+Função Logaritmo
+
+1º el. pré RMI: 406.0;Nº el. pré RMI: 972.0;1º el. pós RMI: 8.665335917185176;Nº el. pós RMI: 9.92481250360578;16 Threads;Tempo de execução: ;5875460936
+1º el. pré RMI: 326.0;Nº el. pré RMI: 707.0;1º el. pós RMI: 8.348728154231077;Nº el. pós RMI: 9.4655664048094;16 Threads;Tempo de execução: ;5609906420
+1º el. pré RMI: 408.0;Nº el. pré RMI: 839.0;1º el. pós RMI: 8.672425341971495;Nº el. pós RMI: 9.712527000439824;16 Threads;Tempo de execução: ;5709990224
+1º el. pré RMI: 821.0;Nº el. pré RMI: 313.0;1º el. pós RMI: 9.681238411777805;Nº el. pós RMI: 8.290018846932618;16 Threads;Tempo de execução: ;6446442151
+1º el. pré RMI: 709.0;Nº el. pré RMI: 122.0;1º el. pós RMI: 9.469641817239516;Nº el. pós RMI: 6.930737337562887;16 Threads;Tempo de execução: ;5602229187
+1º el. pré RMI: 12.0;Nº el. pré RMI: 968.0;1º el. pós RMI: 3.5849625007211565;Nº el. pós RMI: 9.918863237274595;16 Threads;Tempo de execução: ;5591765482
+1º el. pré RMI: 414.0;Nº el. pré RMI: 135.0;1º el. pós RMI: 8.693486957499326;Nº el. pós RMI: 7.076815597050832;16 Threads;Tempo de execução: ;5997363652
+1º el. pré RMI: 447.0;Nº el. pré RMI: 395.0;1º el. pós RMI: 8.804131021183318;Nº el. pós RMI: 8.625708843064466;16 Threads;Tempo de execução: ;5619981190
+1º el. pré RMI: 873.0;Nº el. pré RMI: 288.0;1º el. pós RMI: 9.76983784362944;Nº el. pós RMI: 8.169925001442312;16 Threads;Tempo de execução: ;5526788530
+1º el. pré RMI: 143.0;Nº el. pré RMI: 51.0;1º el. pós RMI: 7.159871336778389;Nº el. pós RMI: 5.672425341971496;16 Threads;Tempo de execução: ;5831043479
+1º el. pré RMI: 521.0;Nº el. pré RMI: 174.0;1º el. pós RMI: 9.02513956227851;Nº el. pós RMI: 7.442943495848729;16 Threads;Tempo de execução: ;5554981929
+1º el. pré RMI: 947.0;Nº el. pré RMI: 871.0;1º el. pós RMI: 9.887220615468385;Nº el. pós RMI: 9.766528908598865;16 Threads;Tempo de execução: ;5586212345
+1º el. pré RMI: 610.0;Nº el. pré RMI: 239.0;1º el. pós RMI: 9.25266543245025;Nº el. pós RMI: 7.90086680798075;16 Threads;Tempo de execução: ;6051867162
+1º el. pré RMI: 646.0;Nº el. pré RMI: 274.0;1º el. pós RMI: 9.335390354693924;Nº el. pós RMI: 8.098032082960527;16 Threads;Tempo de execução: ;5624260952
+1º el. pré RMI: 570.0;Nº el. pré RMI: 588.0;1º el. pós RMI: 9.154818109052105;Nº el. pós RMI: 9.199672344836365;16 Threads;Tempo de execução: ;5635881533
+1º el. pré RMI: 516.0;Nº el. pré RMI: 647.0;1º el. pós RMI: 9.011227255423254;Nº el. pós RMI: 9.337621901992508;16 Threads;Tempo de execução: ;6124236708
+1º el. pré RMI: 146.0;Nº el. pré RMI: 324.0;1º el. pós RMI: 7.189824558880018;Nº el. pós RMI: 8.339850002884624;16 Threads;Tempo de execução: ;5626947617
+1º el. pré RMI: 475.0;Nº el. pré RMI: 541.0;1º el. pós RMI: 8.89178370321831;Nº el. pós RMI: 9.079484783826816;16 Threads;Tempo de execução: ;5606898194
+1º el. pré RMI: 906.0;Nº el. pré RMI: 511.0;1º el. pós RMI: 9.823367240046236;Nº el. pós RMI: 8.997179480937621;16 Threads;Tempo de execução: ;5844195694
+1º el. pré RMI: 510.0;Nº el. pré RMI: 811.0;1º el. pós RMI: 8.994353436858859;Nº el. pós RMI: 9.663558104217273;16 Threads;Tempo de execução: ;5613505153
+
+
+Função Potência
+
+1º el. pré RMI: 402.0;Nº el. pré RMI: 391.0;1º el. pós RMI: 2.6460942462646606E260;Nº el. pós RMI: 1.6507288424500602E259;16 Threads;Tempo de execução: ;7137147793
+1º el. pré RMI: 946.0;Nº el. pré RMI: 983.0;1º el. pós RMI: 3.882519451045864E297;Nº el. pós RMI: 1.800328610262879E299;16 Threads;Tempo de execução: ;7125966034
+1º el. pré RMI: 559.0;Nº el. pré RMI: 890.0;1º el. pós RMI: 5.510370350436783E274;Nº el. pós RMI: 8.689617588382357E294;16 Threads;Tempo de execução: ;6949708655
+1º el. pré RMI: 207.0;Nº el. pré RMI: 654.0;1º el. pós RMI: 3.9539807051752536E231;Nº el. pós RMI: 3.612225319391425E281;16 Threads;Tempo de execução: ;7255657562
+1º el. pré RMI: 48.0;Nº el. pré RMI: 190.0;1º el. pós RMI: 1.3308335400789694E168;Nº el. pós RMI: 7.505162419825198E227;16 Threads;Tempo de execução: ;7131404687
+1º el. pré RMI: 170.0;Nº el. pré RMI: 629.0;1º el. pós RMI: 1.1088993727807836E223;Nº el. pós RMI: 7.329334530763282E279;16 Threads;Tempo de execução: ;7124563595
+1º el. pré RMI: 170.0;Nº el. pré RMI: 932.0;1º el. pós RMI: 1.1088993727807836E223;Nº el. pós RMI: 8.741606145759542E296;16 Threads;Tempo de execução: ;7832900144
+1º el. pré RMI: 980.0;Nº el. pré RMI: 774.0;1º el. pós RMI: 1.326195558947532E299;Nº el. pós RMI: 7.483350179588345E288;16 Threads;Tempo de execução: ;7139964529
+1º el. pré RMI: 606.0;Nº el. pré RMI: 488.0;1º el. pós RMI: 1.767105247861627E278;Nº el. pós RMI: 6.949958323294688E268;16 Threads;Tempo de execução: ;6966896344
+1º el. pré RMI: 36.0;Nº el. pré RMI: 636.0;1º el. pós RMI: 4.268252238120274E155;Nº el. pós RMI: 2.2167237015238974E280;16 Threads;Tempo de execução: ;7342929758
+1º el. pré RMI: 693.0;Nº el. pré RMI: 519.0;1º el. pós RMI: 1.1839230096112137E284;Nº el. pós RMI: 3.286516256649979E271;16 Threads;Tempo de execução: ;7107349297
+1º el. pré RMI: 367.0;Nº el. pré RMI: 880.0;1º el. pós RMI: 2.928238357340633E256;Nº el. pós RMI: 2.8071603112136923E294;16 Threads;Tempo de execução: ;7087822511
+1º el. pré RMI: 112.0;Nº el. pré RMI: 701.0;1º el. pós RMI: 8.352226572653501E204;Nº el. pós RMI: 3.730798527376913E284;16 Threads;Tempo de execução: ;7649777307
+1º el. pré RMI: 176.0;Nº el. pré RMI: 868.0;1º el. pós RMI: 3.5584984534469005E224;Nº el. pós RMI: 7.11168509165185E293;16 Threads;Tempo de execução: ;7134319207
+1º el. pré RMI: 714.0;Nº el. pré RMI: 907.0;1º el. pós RMI: 2.3432637690031366E285;Nº el. pós RMI: 5.764062828708501E295;16 Threads;Tempo de execução: ;7033710660
+1º el. pré RMI: 908.0;Nº el. pré RMI: 433.0;1º el. pós RMI: 6.435537897345989E295;Nº el. pós RMI: 4.454404325656849E263;16 Threads;Tempo de execução: ;7619502604
+1º el. pré RMI: 613.0;Nº el. pré RMI: 801.0;1º el. pós RMI: 5.5724663143312515E278;Nº el. pós RMI: 2.3080839894561975E290;16 Threads;Tempo de execução: ;7103292404
+1º el. pré RMI: 875.0;Nº el. pré RMI: 298.0;1º el. pós RMI: 1.5878347497057898E294;Nº el. pós RMI: 2.640136660108748E247;16 Threads;Tempo de execução: ;7364535852
+1º el. pré RMI: 629.0;Nº el. pré RMI: 592.0;1º el. pós RMI: 7.329334530763282E279;Nº el. pós RMI: 1.7067529897740447E277;16 Threads;Tempo de execução: ;7295776813
+1º el. pré RMI: 997.0;Nº el. pré RMI: 648.0;1º el. pós RMI: 7.404842595397828E299;Nº el. pós RMI: 1.4371449960216751E281;16 Threads;Tempo de execução: ;7105988052
+
+
+Função Seno
+
+1º el. pré RMI: 819.0;Nº el. pré RMI: 431.0;1º el. pós RMI: 0.8167078184368716;Nº el. pós RMI: -0.5661324855759046;16 Threads;Tempo de execução: ;8555752006
+1º el. pré RMI: 235.0;Nº el. pré RMI: 945.0;1º el. pós RMI: 0.5805866409896447;Nº el. pós RMI: 0.5805375529616218;16 Threads;Tempo de execução: ;8610265041
+1º el. pré RMI: 886.0;Nº el. pré RMI: 72.0;1º el. pós RMI: 0.07081237357015184;Nº el. pós RMI: 0.25382336276203626;16 Threads;Tempo de execução: ;8039272852
+1º el. pré RMI: 984.0;Nº el. pré RMI: 811.0;1º el. pós RMI: -0.6299582297887875;Nº el. pós RMI: 0.4520795641768173;16 Threads;Tempo de execução: ;8996692208
+1º el. pré RMI: 829.0;Nº el. pré RMI: 163.0;1º el. pós RMI: -0.3713481244279862;Nº el. pós RMI: -0.35491017584493534;16 Threads;Tempo de execução: ;8131999195
+1º el. pré RMI: 620.0;Nº el. pré RMI: 636.0;1º el. pós RMI: -0.8940236757546596;Nº el. pós RMI: 0.9851566112943334;16 Threads;Tempo de execução: ;8123407139
+1º el. pré RMI: 311.0;Nº el. pré RMI: 42.0;1º el. pós RMI: 0.01767178546737087;Nº el. pós RMI: -0.9165215479156338;16 Threads;Tempo de execução: ;8532306134
+1º el. pré RMI: 165.0;Nº el. pré RMI: 743.0;1º el. pós RMI: 0.9977972794498907;Nº el. pós RMI: 0.9999110578521441;16 Threads;Tempo de execução: ;8145675571
+1º el. pré RMI: 518.0;Nº el. pré RMI: 368.0;1º el. pós RMI: 0.35488199371552387;Nº el. pós RMI: -0.42019439103217676;16 Threads;Tempo de execução: ;8141704109
+1º el. pré RMI: 139.0;Nº el. pré RMI: 265.0;1º el. pós RMI: 0.6960801312247415;Nº el. pós RMI: 0.8940101700837942;16 Threads;Tempo de execução: ;8498471831
+1º el. pré RMI: 667.0;Nº el. pré RMI: 95.0;1º el. pós RMI: 0.8318082081799767;Nº el. pós RMI: 0.683261714736121;16 Threads;Tempo de execução: ;8200884921
+1º el. pré RMI: 387.0;Nº el. pré RMI: 644.0;1º el. pós RMI: -0.5514518281149147;Nº el. pós RMI: 0.026490886523445938;16 Threads;Tempo de execução: ;8214024321
+1º el. pré RMI: 252.0;Nº el. pré RMI: 270.0;1º el. pós RMI: 0.623012211003653;Nº el. pós RMI: -0.1760459464712114;16 Threads;Tempo de execução: ;8594157077
+1º el. pré RMI: 457.0;Nº el. pré RMI: 516.0;1º el. pós RMI: -0.9948298531417643;Nº el. pós RMI: 0.7024292412479847;16 Threads;Tempo de execução: ;8248251992
+1º el. pré RMI: 699.0;Nº el. pré RMI: 199.0;1º el. pós RMI: 0.999990471552965;Nº el. pós RMI: -0.8817988360675502;16 Threads;Tempo de execução: ;7953176268
+1º el. pré RMI: 822.0;Nº el. pré RMI: 989.0;1º el. pós RMI: -0.889968112961789;Nº el. pós RMI: 0.5660330877786267;16 Threads;Tempo de execução: ;8841260439
+1º el. pré RMI: 745.0;Nº el. pré RMI: 706.0;1º el. pós RMI: -0.42823715115227945;Nº el. pós RMI: 0.7567630866040035;16 Threads;Tempo de execução: ;8239624956
+1º el. pré RMI: 505.0;Nº el. pré RMI: 549.0;1º el. pós RMI: 0.7148553508409695;Nº el. pós RMI: 0.7023648723213674;16 Threads;Tempo de execução: ;8428226709
+1º el. pré RMI: 762.0;Nº el. pré RMI: 837.0;1º el. pós RMI: 0.986617763744047;Nº el. pós RMI: 0.9726440741045344;16 Threads;Tempo de execução: ;8439940898
+1º el. pré RMI: 882.0;Nº el. pré RMI: 333.0;1º el. pós RMI: 0.7086166021367329;Nº el. pós RMI: -0.008821166113885877;16 Threads;Tempo de execução: ;8220898264
+
+
+Função Média
+
+1º el. pré RMI: 707.0;Nº el. pré RMI: 78.0;Resultado RMI: 499.50814324027675;16 Threads;Tempo de execução: ;2629660953
+1º el. pré RMI: 586.0;Nº el. pré RMI: 993.0;Resultado RMI: 499.48952711029017;16 Threads;Tempo de execução: ;2577166220
+1º el. pré RMI: 717.0;Nº el. pré RMI: 595.0;Resultado RMI: 499.50488854028316;16 Threads;Tempo de execução: ;2603440881
+1º el. pré RMI: 947.0;Nº el. pré RMI: 464.0;Resultado RMI: 499.4664526702862;16 Threads;Tempo de execução: ;2840489425
+1º el. pré RMI: 513.0;Nº el. pré RMI: 470.0;Resultado RMI: 499.49148444028276;16 Threads;Tempo de execução: ;2613007516
+1º el. pré RMI: 176.0;Nº el. pré RMI: 657.0;Resultado RMI: 499.540480490286;16 Threads;Tempo de execução: ;2570810329
+1º el. pré RMI: 20.0;Nº el. pré RMI: 458.0;Resultado RMI: 499.5165370902928;16 Threads;Tempo de execução: ;2805987618
+1º el. pré RMI: 355.0;Nº el. pré RMI: 599.0;Resultado RMI: 499.55148822028644;16 Threads;Tempo de execução: ;2590653126
+1º el. pré RMI: 552.0;Nº el. pré RMI: 288.0;Resultado RMI: 499.53434052026245;16 Threads;Tempo de execução: ;2583461435
+1º el. pré RMI: 364.0;Nº el. pré RMI: 316.0;Resultado RMI: 499.505451160289;16 Threads;Tempo de execução: ;2821349317
+1º el. pré RMI: 56.0;Nº el. pré RMI: 726.0;Resultado RMI: 499.54072313029036;16 Threads;Tempo de execução: ;2597291310
+1º el. pré RMI: 296.0;Nº el. pré RMI: 904.0;Resultado RMI: 499.49675797028414;16 Threads;Tempo de execução: ;2633849947
+1º el. pré RMI: 215.0;Nº el. pré RMI: 797.0;Resultado RMI: 499.49437982027723;16 Threads;Tempo de execução: ;2797124401
+1º el. pré RMI: 604.0;Nº el. pré RMI: 267.0;Resultado RMI: 499.4812771902851;16 Threads;Tempo de execução: ;2555689363
+1º el. pré RMI: 196.0;Nº el. pré RMI: 685.0;Resultado RMI: 499.54395522028597;16 Threads;Tempo de execução: ;2593100747
+1º el. pré RMI: 472.0;Nº el. pré RMI: 750.0;Resultado RMI: 499.52135613029577;16 Threads;Tempo de execução: ;2811987480
+1º el. pré RMI: 809.0;Nº el. pré RMI: 353.0;Resultado RMI: 499.45742852027826;16 Threads;Tempo de execução: ;2566122041
+1º el. pré RMI: 765.0;Nº el. pré RMI: 605.0;Resultado RMI: 499.5088932202805;16 Threads;Tempo de execução: ;2552147297
+1º el. pré RMI: 888.0;Nº el. pré RMI: 685.0;Resultado RMI: 499.5218612502896;16 Threads;Tempo de execução: ;2795086311
+1º el. pré RMI: 577.0;Nº el. pré RMI: 158.0;Resultado RMI: 499.4963213302836;16 Threads;Tempo de execução: ;2620173583
+
+
+Função ContaMaiorQue
+
+1º el. pré RMI: 203.0;Nº el. pré RMI: 180.0;Resultado RMI: 4.9912967E7;16 Threads;Tempo de execução: ;2492924162
+1º el. pré RMI: 157.0;Nº el. pré RMI: 163.0;Resultado RMI: 4.9903868E7;16 Threads;Tempo de execução: ;2456426946
+1º el. pré RMI: 626.0;Nº el. pré RMI: 807.0;Resultado RMI: 4.9913212E7;16 Threads;Tempo de execução: ;2455909106
+1º el. pré RMI: 967.0;Nº el. pré RMI: 441.0;Resultado RMI: 4.9899769E7;16 Threads;Tempo de execução: ;2690860924
+1º el. pré RMI: 375.0;Nº el. pré RMI: 936.0;Resultado RMI: 4.9899635E7;16 Threads;Tempo de execução: ;2394795282
+1º el. pré RMI: 516.0;Nº el. pré RMI: 385.0;Resultado RMI: 4.9894372E7;16 Threads;Tempo de execução: ;2399846202
+1º el. pré RMI: 361.0;Nº el. pré RMI: 278.0;Resultado RMI: 4.9895032E7;16 Threads;Tempo de execução: ;2703800214
+1º el. pré RMI: 540.0;Nº el. pré RMI: 668.0;Resultado RMI: 4.9904443E7;16 Threads;Tempo de execução: ;2397474095
+1º el. pré RMI: 787.0;Nº el. pré RMI: 46.0;Resultado RMI: 4.9895067E7;16 Threads;Tempo de execução: ;2508418070
+1º el. pré RMI: 643.0;Nº el. pré RMI: 325.0;Resultado RMI: 4.990652E7;16 Threads;Tempo de execução: ;2650091071
+1º el. pré RMI: 462.0;Nº el. pré RMI: 512.0;Resultado RMI: 4.9905693E7;16 Threads;Tempo de execução: ;2462281960
+1º el. pré RMI: 233.0;Nº el. pré RMI: 218.0;Resultado RMI: 4.9899812E7;16 Threads;Tempo de execução: ;2468786023
+1º el. pré RMI: 681.0;Nº el. pré RMI: 685.0;Resultado RMI: 4.9900007E7;16 Threads;Tempo de execução: ;2681495896
+1º el. pré RMI: 137.0;Nº el. pré RMI: 819.0;Resultado RMI: 4.9902552E7;16 Threads;Tempo de execução: ;2431196100
+1º el. pré RMI: 288.0;Nº el. pré RMI: 891.0;Resultado RMI: 4.9902247E7;16 Threads;Tempo de execução: ;2420882364
+1º el. pré RMI: 269.0;Nº el. pré RMI: 937.0;Resultado RMI: 4.9903984E7;16 Threads;Tempo de execução: ;2694656026
+1º el. pré RMI: 535.0;Nº el. pré RMI: 52.0;Resultado RMI: 4.9893855E7;16 Threads;Tempo de execução: ;2442866809
+1º el. pré RMI: 885.0;Nº el. pré RMI: 512.0;Resultado RMI: 4.9895844E7;16 Threads;Tempo de execução: ;2498441342
+1º el. pré RMI: 963.0;Nº el. pré RMI: 275.0;Resultado RMI: 4.9890956E7;16 Threads;Tempo de execução: ;2683932939
+1º el. pré RMI: 577.0;Nº el. pré RMI: 408.0;Resultado RMI: 4.9898584E7;16 Threads;Tempo de execução: ;2433139289
+
+
+Função ContaIntervalo
+
+1º el. pré RMI: 789.0;Nº el. pré RMI: 829.0;Resultado RMI: 2.5100228E7;16 Threads;Tempo de execução: ;2540215563
+1º el. pré RMI: 463.0;Nº el. pré RMI: 986.0;Resultado RMI: 2.5099999E7;16 Threads;Tempo de execução: ;2402717056
+1º el. pré RMI: 947.0;Nº el. pré RMI: 644.0;Resultado RMI: 2.5103222E7;16 Threads;Tempo de execução: ;2374335188
+1º el. pré RMI: 258.0;Nº el. pré RMI: 95.0;Resultado RMI: 2.5102645E7;16 Threads;Tempo de execução: ;2632713155
+1º el. pré RMI: 784.0;Nº el. pré RMI: 676.0;Resultado RMI: 2.5093329E7;16 Threads;Tempo de execução: ;2437055835
+1º el. pré RMI: 883.0;Nº el. pré RMI: 90.0;Resultado RMI: 2.509814E7;16 Threads;Tempo de execução: ;2452430899
+1º el. pré RMI: 449.0;Nº el. pré RMI: 130.0;Resultado RMI: 2.5094982E7;16 Threads;Tempo de execução: ;2792064539
+1º el. pré RMI: 627.0;Nº el. pré RMI: 760.0;Resultado RMI: 2.5104869E7;16 Threads;Tempo de execução: ;2416101943
+1º el. pré RMI: 462.0;Nº el. pré RMI: 181.0;Resultado RMI: 2.5102188E7;16 Threads;Tempo de execução: ;2451135221
+1º el. pré RMI: 42.0;Nº el. pré RMI: 301.0;Resultado RMI: 2.5088527E7;16 Threads;Tempo de execução: ;2688439068
+1º el. pré RMI: 647.0;Nº el. pré RMI: 595.0;Resultado RMI: 2.5096001E7;16 Threads;Tempo de execução: ;2440792157
+1º el. pré RMI: 685.0;Nº el. pré RMI: 396.0;Resultado RMI: 2.510285E7;16 Threads;Tempo de execução: ;2453694962
+1º el. pré RMI: 687.0;Nº el. pré RMI: 674.0;Resultado RMI: 2.5098446E7;16 Threads;Tempo de execução: ;2693555039
+1º el. pré RMI: 173.0;Nº el. pré RMI: 239.0;Resultado RMI: 2.5103789E7;16 Threads;Tempo de execução: ;2455834703
+1º el. pré RMI: 757.0;Nº el. pré RMI: 200.0;Resultado RMI: 2.5095059E7;16 Threads;Tempo de execução: ;2464716456
+1º el. pré RMI: 308.0;Nº el. pré RMI: 295.0;Resultado RMI: 2.5098257E7;16 Threads;Tempo de execução: ;2651367053
+1º el. pré RMI: 96.0;Nº el. pré RMI: 910.0;Resultado RMI: 2.5106997E7;16 Threads;Tempo de execução: ;2425077968
+1º el. pré RMI: 565.0;Nº el. pré RMI: 731.0;Resultado RMI: 2.5099142E7;16 Threads;Tempo de execução: ;2477372296
+1º el. pré RMI: 706.0;Nº el. pré RMI: 976.0;Resultado RMI: 2.5105291E7;16 Threads;Tempo de execução: ;2681350072
+1º el. pré RMI: 633.0;Nº el. pré RMI: 370.0;Resultado RMI: 2.510015E7;16 Threads;Tempo de execução: ;2454748959
+
+
+Função Logaritmo
+
+1º el. pré RMI: 798.0;Nº el. pré RMI: 860.0;1º el. pós RMI: 9.640244936222347;Nº el. pós RMI: 9.74819284958946;32 Threads;Tempo de execução: ;5739389506
+1º el. pré RMI: 15.0;Nº el. pré RMI: 870.0;1º el. pós RMI: 3.9068905956085187;Nº el. pós RMI: 9.76487159073609;32 Threads;Tempo de execução: ;5477822575
+1º el. pré RMI: 107.0;Nº el. pré RMI: 47.0;1º el. pós RMI: 6.7414669864011465;Nº el. pós RMI: 5.554588851677638;32 Threads;Tempo de execução: ;5459965333
+1º el. pré RMI: 573.0;Nº el. pré RMI: 491.0;1º el. pós RMI: 9.162391328756906;Nº el. pós RMI: 8.939579214314692;32 Threads;Tempo de execução: ;6140923732
+1º el. pré RMI: 681.0;Nº el. pré RMI: 243.0;1º el. pós RMI: 9.41151098801207;Nº el. pós RMI: 7.924812503605781;32 Threads;Tempo de execução: ;5439170141
+1º el. pré RMI: 72.0;Nº el. pré RMI: 585.0;1º el. pós RMI: 6.169925001442312;Nº el. pós RMI: 9.192292814470768;32 Threads;Tempo de execução: ;5396801645
+1º el. pré RMI: 159.0;Nº el. pré RMI: 428.0;1º el. pós RMI: 7.312882955284356;Nº el. pós RMI: 8.741466986401146;32 Threads;Tempo de execução: ;5780977955
+1º el. pré RMI: 540.0;Nº el. pré RMI: 297.0;1º el. pós RMI: 9.076815597050832;Nº el. pós RMI: 8.214319120800766;32 Threads;Tempo de execução: ;5666696183
+1º el. pré RMI: 495.0;Nº el. pré RMI: 87.0;1º el. pós RMI: 8.951284714966972;Nº el. pós RMI: 6.442943495848729;32 Threads;Tempo de execução: ;5453354689
+1º el. pré RMI: 977.0;Nº el. pré RMI: 620.0;1º el. pós RMI: 9.932214751968385;Nº el. pós RMI: 9.276124405274238;32 Threads;Tempo de execução: ;5833598098
+1º el. pré RMI: 403.0;Nº el. pré RMI: 791.0;1º el. pós RMI: 8.654636028527968;Nº el. pós RMI: 9.627533884472793;32 Threads;Tempo de execução: ;5392748900
+1º el. pré RMI: 595.0;Nº el. pré RMI: 477.0;1º el. pós RMI: 9.216745858195306;Nº el. pós RMI: 8.897845456005513;32 Threads;Tempo de execução: ;5440632945
+1º el. pré RMI: 493.0;Nº el. pré RMI: 150.0;1º el. pós RMI: 8.945443836377912;Nº el. pós RMI: 7.22881869049588;32 Threads;Tempo de execução: ;6049876532
+1º el. pré RMI: 564.0;Nº el. pré RMI: 995.0;1º el. pós RMI: 9.139551352398794;Nº el. pós RMI: 9.958552715431011;32 Threads;Tempo de execução: ;5367117636
+1º el. pré RMI: 241.0;Nº el. pré RMI: 839.0;1º el. pós RMI: 7.912889336229962;Nº el. pós RMI: 9.712527000439824;32 Threads;Tempo de execução: ;5335495787
+1º el. pré RMI: 121.0;Nº el. pré RMI: 390.0;1º el. pós RMI: 6.9188632372745955;Nº el. pós RMI: 8.60733031374961;32 Threads;Tempo de execução: ;5330782867
+1º el. pré RMI: 776.0;Nº el. pré RMI: 969.0;1º el. pós RMI: 9.599912842187129;Nº el. pós RMI: 9.920352855415082;32 Threads;Tempo de execução: ;5909257248
+1º el. pré RMI: 946.0;Nº el. pré RMI: 272.0;1º el. pós RMI: 9.885696373339394;Nº el. pós RMI: 8.08746284125034;32 Threads;Tempo de execução: ;5329783968
+1º el. pré RMI: 630.0;Nº el. pré RMI: 489.0;1º el. pós RMI: 9.29920801838728;Nº el. pós RMI: 8.933690654952235;32 Threads;Tempo de execução: ;5390061194
+1º el. pré RMI: 295.0;Nº el. pré RMI: 678.0;1º el. pós RMI: 8.204571144249204;Nº el. pós RMI: 9.405141463136344;32 Threads;Tempo de execução: ;6131049961
+
+
+Função Potência
+
+1º el. pré RMI: 654.0;Nº el. pré RMI: 19.0;1º el. pós RMI: 3.612225319391425E281;Nº el. pós RMI: 7.505162419825198E127;32 Threads;Tempo de execução: ;7052647301
+1º el. pré RMI: 496.0;Nº el. pré RMI: 600.0;1º el. pós RMI: 3.5331953404387664E269;Nº el. pós RMI: 6.533186235000709E277;32 Threads;Tempo de execução: ;6813601843
+1º el. pré RMI: 915.0;Nº el. pré RMI: 817.0;1º el. pós RMI: 1.3871052217859263E296;Nº el. pós RMI: 1.6680368978965647E291;32 Threads;Tempo de execução: ;6849203268
+1º el. pré RMI: 482.0;Nº el. pré RMI: 165.0;1º el. pós RMI: 2.016990366193055E268;Nº el. pós RMI: 5.60266198003446E221;32 Threads;Tempo de execução: ;7813519629
+1º el. pré RMI: 193.0;Nº el. pré RMI: 547.0;1º el. pós RMI: 3.5952649493027206E228;Nº el. pós RMI: 6.29118756415317E273;32 Threads;Tempo de execução: ;6970346508
+1º el. pré RMI: 924.0;Nº el. pré RMI: 766.0;1º el. pós RMI: 3.691451119008212E296;Nº el. pós RMI: 2.647749918005357E288;32 Threads;Tempo de execução: ;6731027331
+1º el. pré RMI: 17.0;Nº el. pré RMI: 487.0;1º el. pós RMI: 1.1088993727807837E123;Nº el. pós RMI: 5.661038669292076E268;32 Threads;Tempo de execução: ;7739619609
+1º el. pré RMI: 535.0;Nº el. pré RMI: 92.0;1º el. pós RMI: 6.845074860613699E272;Nº el. pós RMI: 2.3921187465699815E196;32 Threads;Tempo de execução: ;7173654838
+1º el. pré RMI: 416.0;Nº el. pré RMI: 968.0;1º el. pós RMI: 8.115832266063152E261;Nº el. pós RMI: 3.8684388024570736E298;32 Threads;Tempo de execução: ;7064727564
+1º el. pré RMI: 795.0;Nº el. pré RMI: 156.0;1º el. pós RMI: 1.0882103837521553E290;Nº el. pós RMI: 2.0533351205151604E219;32 Threads;Tempo de execução: ;8338465180
+1º el. pré RMI: 126.0;Nº el. pré RMI: 220.0;1º el. pós RMI: 1.0890667821928026E210;Nº el. pós RMI: 1.7469001504088244E234;32 Threads;Tempo de execução: ;7059203330
+1º el. pré RMI: 258.0;Nº el. pré RMI: 201.0;1º el. pós RMI: 1.4520133064708457E241;Nº el. pós RMI: 2.087400302408451E230;32 Threads;Tempo de execução: ;6799578006
+1º el. pré RMI: 657.0;Nº el. pré RMI: 799.0;1º el. pós RMI: 5.708696518494879E281;Nº el. pós RMI: 1.7975373843284772E290;32 Threads;Tempo de execução: ;6744404068
+1º el. pré RMI: 821.0;Nº el. pré RMI: 569.0;1º el. pós RMI: 2.718414712129341E291;Nº el. pós RMI: 3.245089203402529E275;32 Threads;Tempo de execução: ;7425722895
+1º el. pré RMI: 147.0;Nº el. pré RMI: 320.0;1º el. pós RMI: 5.391796280876815E216;Nº el. pós RMI: 3.273390607896142E250;32 Threads;Tempo de execução: ;6916523948
+1º el. pré RMI: 502.0;Nº el. pré RMI: 475.0;1º el. pós RMI: 1.175903585246194E270;Nº el. pós RMI: 4.670474040140151E267;32 Threads;Tempo de execução: ;6808566511
+1º el. pré RMI: 625.0;Nº el. pré RMI: 509.0;1º el. pós RMI: 3.872591914849318E279;Nº el. pós RMI: 4.696542250878603E270;32 Threads;Tempo de execução: ;7344089765
+1º el. pré RMI: 868.0;Nº el. pré RMI: 157.0;1º el. pós RMI: 7.11168509165185E293;Nº el. pós RMI: 3.8901400872746564E219;32 Threads;Tempo de execução: ;6816859862
+1º el. pré RMI: 538.0;Nº el. pré RMI: 428.0;1º el. pós RMI: 1.1973677775552259E273;Nº el. pós RMI: 1.3943663751772874E263;32 Threads;Tempo de execução: ;6754616533
+1º el. pré RMI: 408.0;Nº el. pré RMI: 961.0;1º el. pós RMI: 1.1641697464612894E261;Nº el. pós RMI: 1.8721419156117087E298;32 Threads;Tempo de execução: ;7713252892
+
+
+Função Seno
+
+1º el. pré RMI: 99.0;Nº el. pré RMI: 323.0;1º el. pós RMI: -0.9992068341863537;Nº el. pós RMI: 0.551401533867395;32 Threads;Tempo de execução: ;8436790438
+1º el. pré RMI: 570.0;Nº el. pré RMI: 747.0;1º el. pós RMI: -0.9802515835834019;Nº el. pós RMI: -0.643491986364181;32 Threads;Tempo de execução: ;8054076355
+1º el. pré RMI: 856.0;Nº el. pré RMI: 397.0;1º el. pós RMI: 0.9964742331166823;Nº el. pós RMI: 0.916533604797894;32 Threads;Tempo de execução: ;7897982645
+1º el. pré RMI: 526.0;Nº el. pré RMI: 174.0;1º el. pós RMI: -0.9765973517090915;Nº el. pós RMI: -0.9364619742512132;32 Threads;Tempo de execução: ;8319499956
+1º el. pré RMI: 274.0;Nº el. pré RMI: 337.0;1º el. pós RMI: -0.6299114066849614;Nº el. pós RMI: -0.7510071512506543;32 Threads;Tempo de execução: ;7900307846
+1º el. pré RMI: 657.0;Nº el. pré RMI: 551.0;1º el. pós RMI: -0.3959805115438519;Nº el. pós RMI: -0.9395403785729803;32 Threads;Tempo de execução: ;8335350771
+1º el. pré RMI: 843.0;Nº el. pré RMI: 199.0;1º el. pós RMI: 0.8689955898411542;Nº el. pós RMI: -0.8817988360675502;32 Threads;Tempo de execução: ;8262373799
+1º el. pré RMI: 970.0;Nº el. pré RMI: 949.0;1º el. pós RMI: 0.6831956801127874;Nº el. pós RMI: 0.23674925645140169;32 Threads;Tempo de execução: ;8382218233
+1º el. pré RMI: 523.0;Nº el. pré RMI: 878.0;1º el. pós RMI: 0.9971755532498972;Nº el. pós RMI: -0.997177816819599;32 Threads;Tempo de execução: ;8293641973
+1º el. pré RMI: 888.0;Nº el. pré RMI: 850.0;1º el. pós RMI: 0.8775464294662774;Nº el. pós RMI: 0.9802277317343164;32 Threads;Tempo de execução: ;9948314651
+1º el. pré RMI: 26.0;Nº el. pré RMI: 264.0;1º el. pós RMI: 0.7625584504796028;Nº el. pós RMI: 0.10601748626711377;32 Threads;Tempo de execução: ;7904795384
+1º el. pré RMI: 763.0;Nº el. pré RMI: 310.0;1º el. pós RMI: 0.39586978738073614;Nº el. pós RMI: 0.8508876886558596;32 Threads;Tempo de execução: ;8043701016
+1º el. pré RMI: 558.0;Nº el. pré RMI: 35.0;1º el. pós RMI: -0.9332988757369771;Nº el. pós RMI: -0.428182669496151;32 Threads;Tempo de execução: ;8633148317
+1º el. pré RMI: 61.0;Nº el. pré RMI: 98.0;1º el. pós RMI: -0.9661177700083929;Nº el. pós RMI: -0.5733818719904229;32 Threads;Tempo de execução: ;7819810628
+1º el. pré RMI: 677.0;Nº el. pré RMI: 514.0;1º el. pós RMI: -0.9999126587279824;Nº el. pós RMI: -0.9395094070026404;32 Threads;Tempo de execução: ;7921540135
+1º el. pré RMI: 713.0;Nº el. pré RMI: 98.0;1º el. pós RMI: 0.14106032243614638;Nº el. pós RMI: -0.5733818719904229;32 Threads;Tempo de execução: ;8454853117
+1º el. pré RMI: 748.0;Nº el. pré RMI: 790.0;1º el. pós RMI: 0.29642615832557057;Nº el. pós RMI: -0.9938953072212839;32 Threads;Tempo de execução: ;7987011759
+1º el. pré RMI: 188.0;Nº el. pré RMI: 703.0;1º el. pós RMI: -0.47552366901205834;Nº el. pós RMI: -0.6569411457329191;32 Threads;Tempo de execução: ;7863863266
+1º el. pré RMI: 503.0;Nº el. pré RMI: 466.0;1º el. pós RMI: 0.33836176080013775;Nº el. pós RMI: 0.8645665970913422;32 Threads;Tempo de execução: ;8587181001
+1º el. pré RMI: 606.0;Nº el. pré RMI: 659.0;1º el. pós RMI: 0.3215653171302501;Nº el. pós RMI: -0.6701844311086327;32 Threads;Tempo de execução: ;8186096522
+
+
+Função Média
+
+1º el. pré RMI: 512.0;Nº el. pré RMI: 294.0;Resultado RMI: 499.45975372011935;32 Threads;Tempo de execução: ;2552533451
+1º el. pré RMI: 721.0;Nº el. pré RMI: 330.0;Resultado RMI: 499.44363514011087;32 Threads;Tempo de execução: ;2400024686
+1º el. pré RMI: 419.0;Nº el. pré RMI: 891.0;Resultado RMI: 499.49033127011575;32 Threads;Tempo de execução: ;2364978244
+1º el. pré RMI: 56.0;Nº el. pré RMI: 681.0;Resultado RMI: 499.5149585101086;32 Threads;Tempo de execução: ;3127672889
+1º el. pré RMI: 60.0;Nº el. pré RMI: 765.0;Resultado RMI: 499.5121490101094;32 Threads;Tempo de execução: ;2382051143
+1º el. pré RMI: 996.0;Nº el. pré RMI: 254.0;Resultado RMI: 499.4944826401151;32 Threads;Tempo de execução: ;2429887048
+1º el. pré RMI: 349.0;Nº el. pré RMI: 753.0;Resultado RMI: 499.5374755801207;32 Threads;Tempo de execução: ;2635837010
+1º el. pré RMI: 631.0;Nº el. pré RMI: 645.0;Resultado RMI: 499.4986406601109;32 Threads;Tempo de execução: ;2419663817
+1º el. pré RMI: 699.0;Nº el. pré RMI: 447.0;Resultado RMI: 499.5146775201166;32 Threads;Tempo de execução: ;2398340165
+1º el. pré RMI: 989.0;Nº el. pré RMI: 6.0;Resultado RMI: 499.4669515901133;32 Threads;Tempo de execução: ;2743352942
+1º el. pré RMI: 267.0;Nº el. pré RMI: 990.0;Resultado RMI: 499.49446177011595;32 Threads;Tempo de execução: ;2371986921
+1º el. pré RMI: 335.0;Nº el. pré RMI: 410.0;Resultado RMI: 499.50080849011647;32 Threads;Tempo de execução: ;2374699760
+1º el. pré RMI: 976.0;Nº el. pré RMI: 720.0;Resultado RMI: 499.46561631011224;32 Threads;Tempo de execução: ;2445508388
+1º el. pré RMI: 970.0;Nº el. pré RMI: 336.0;Resultado RMI: 499.49520496010626;32 Threads;Tempo de execução: ;2491918758
+1º el. pré RMI: 963.0;Nº el. pré RMI: 92.0;Resultado RMI: 499.4832318301191;32 Threads;Tempo de execução: ;2406440099
+1º el. pré RMI: 732.0;Nº el. pré RMI: 448.0;Resultado RMI: 499.4789755101163;32 Threads;Tempo de execução: ;2389943509
+1º el. pré RMI: 544.0;Nº el. pré RMI: 673.0;Resultado RMI: 499.4832721701142;32 Threads;Tempo de execução: ;2757605747
+1º el. pré RMI: 806.0;Nº el. pré RMI: 449.0;Resultado RMI: 499.51801086011324;32 Threads;Tempo de execução: ;2386230588
+1º el. pré RMI: 289.0;Nº el. pré RMI: 21.0;Resultado RMI: 499.4794998301143;32 Threads;Tempo de execução: ;2413766864
+1º el. pré RMI: 322.0;Nº el. pré RMI: 582.0;Resultado RMI: 499.4792140701174;32 Threads;Tempo de execução: ;2383601857
+
+
+Função ContaMaiorQue
+
+1º el. pré RMI: 994.0;Nº el. pré RMI: 376.0;Resultado RMI: 4.9894435E7;32 Threads;Tempo de execução: ;2481501029
+1º el. pré RMI: 302.0;Nº el. pré RMI: 15.0;Resultado RMI: 4.9896571E7;32 Threads;Tempo de execução: ;2307654447
+1º el. pré RMI: 720.0;Nº el. pré RMI: 704.0;Resultado RMI: 4.9899453E7;32 Threads;Tempo de execução: ;2295604520
+1º el. pré RMI: 207.0;Nº el. pré RMI: 254.0;Resultado RMI: 4.990096E7;32 Threads;Tempo de execução: ;2602447191
+1º el. pré RMI: 295.0;Nº el. pré RMI: 286.0;Resultado RMI: 4.990044E7;32 Threads;Tempo de execução: ;2311192058
+1º el. pré RMI: 123.0;Nº el. pré RMI: 550.0;Resultado RMI: 4.9897907E7;32 Threads;Tempo de execução: ;2323763786
+1º el. pré RMI: 518.0;Nº el. pré RMI: 467.0;Resultado RMI: 4.9898281E7;32 Threads;Tempo de execução: ;2885353896
+1º el. pré RMI: 496.0;Nº el. pré RMI: 910.0;Resultado RMI: 4.9901273E7;32 Threads;Tempo de execução: ;2293313696
+1º el. pré RMI: 639.0;Nº el. pré RMI: 651.0;Resultado RMI: 4.989756E7;32 Threads;Tempo de execução: ;2323336465
+1º el. pré RMI: 357.0;Nº el. pré RMI: 393.0;Resultado RMI: 4.990633E7;32 Threads;Tempo de execução: ;2533770323
+1º el. pré RMI: 560.0;Nº el. pré RMI: 203.0;Resultado RMI: 4.9897949E7;32 Threads;Tempo de execução: ;2315468554
+1º el. pré RMI: 320.0;Nº el. pré RMI: 781.0;Resultado RMI: 4.9892672E7;32 Threads;Tempo de execução: ;2343089269
+1º el. pré RMI: 354.0;Nº el. pré RMI: 80.0;Resultado RMI: 4.990316E7;32 Threads;Tempo de execução: ;2529414100
+1º el. pré RMI: 676.0;Nº el. pré RMI: 1.0;Resultado RMI: 4.9902837E7;32 Threads;Tempo de execução: ;2309882532
+1º el. pré RMI: 269.0;Nº el. pré RMI: 322.0;Resultado RMI: 4.9895787E7;32 Threads;Tempo de execução: ;2338978023
+1º el. pré RMI: 176.0;Nº el. pré RMI: 75.0;Resultado RMI: 4.9906736E7;32 Threads;Tempo de execução: ;2322401978
+1º el. pré RMI: 595.0;Nº el. pré RMI: 190.0;Resultado RMI: 4.9895697E7;32 Threads;Tempo de execução: ;2494667189
+1º el. pré RMI: 668.0;Nº el. pré RMI: 442.0;Resultado RMI: 4.9909557E7;32 Threads;Tempo de execução: ;2349253564
+1º el. pré RMI: 817.0;Nº el. pré RMI: 694.0;Resultado RMI: 4.9894979E7;32 Threads;Tempo de execução: ;2300759670
+1º el. pré RMI: 227.0;Nº el. pré RMI: 768.0;Resultado RMI: 4.9902024E7;32 Threads;Tempo de execução: ;2549740936
+
+
+Função ContaIntervalo
+
+1º el. pré RMI: 226.0;Nº el. pré RMI: 938.0;Resultado RMI: 2.5096262E7;32 Threads;Tempo de execução: ;2474666350
+1º el. pré RMI: 253.0;Nº el. pré RMI: 759.0;Resultado RMI: 2.5092975E7;32 Threads;Tempo de execução: ;2343061919
+1º el. pré RMI: 102.0;Nº el. pré RMI: 595.0;Resultado RMI: 2.5100512E7;32 Threads;Tempo de execução: ;2288476566
+1º el. pré RMI: 716.0;Nº el. pré RMI: 421.0;Resultado RMI: 2.5102032E7;32 Threads;Tempo de execução: ;2912552117
+1º el. pré RMI: 604.0;Nº el. pré RMI: 37.0;Resultado RMI: 2.5097784E7;32 Threads;Tempo de execução: ;2261224302
+1º el. pré RMI: 91.0;Nº el. pré RMI: 275.0;Resultado RMI: 2.5095501E7;32 Threads;Tempo de execução: ;2312026292
+1º el. pré RMI: 318.0;Nº el. pré RMI: 441.0;Resultado RMI: 2.5102669E7;32 Threads;Tempo de execução: ;2547812514
+1º el. pré RMI: 408.0;Nº el. pré RMI: 853.0;Resultado RMI: 2.5101707E7;32 Threads;Tempo de execução: ;2282008415
+1º el. pré RMI: 758.0;Nº el. pré RMI: 118.0;Resultado RMI: 2.510127E7;32 Threads;Tempo de execução: ;2283341854
+1º el. pré RMI: 584.0;Nº el. pré RMI: 301.0;Resultado RMI: 2.5103133E7;32 Threads;Tempo de execução: ;2485684959
+1º el. pré RMI: 362.0;Nº el. pré RMI: 354.0;Resultado RMI: 2.5099229E7;32 Threads;Tempo de execução: ;2703375897
+1º el. pré RMI: 818.0;Nº el. pré RMI: 195.0;Resultado RMI: 2.5100503E7;32 Threads;Tempo de execução: ;2307403284
+1º el. pré RMI: 930.0;Nº el. pré RMI: 776.0;Resultado RMI: 2.5093253E7;32 Threads;Tempo de execução: ;2297224587
+1º el. pré RMI: 236.0;Nº el. pré RMI: 534.0;Resultado RMI: 2.5095886E7;32 Threads;Tempo de execução: ;2521100529
+1º el. pré RMI: 952.0;Nº el. pré RMI: 869.0;Resultado RMI: 2.5098482E7;32 Threads;Tempo de execução: ;2662157465
+1º el. pré RMI: 104.0;Nº el. pré RMI: 341.0;Resultado RMI: 2.5108493E7;32 Threads;Tempo de execução: ;2301163446
+1º el. pré RMI: 584.0;Nº el. pré RMI: 490.0;Resultado RMI: 2.5101274E7;32 Threads;Tempo de execução: ;2298912902
+1º el. pré RMI: 60.0;Nº el. pré RMI: 444.0;Resultado RMI: 2.5098313E7;32 Threads;Tempo de execução: ;2543955053
+1º el. pré RMI: 560.0;Nº el. pré RMI: 76.0;Resultado RMI: 2.5103169E7;32 Threads;Tempo de execução: ;2293144232
+1º el. pré RMI: 604.0;Nº el. pré RMI: 85.0;Resultado RMI: 2.5096394E7;32 Threads;Tempo de execução: ;2322941812
+
+
+Função Logaritmo
+
+1º el. pré RMI: 783.0;Nº el. pré RMI: 352.0;1º el. pós RMI: 9.612868497291041;Nº el. pós RMI: 8.459431618637296;64 Threads;Tempo de execução: ;8024674538
+1º el. pré RMI: 96.0;Nº el. pré RMI: 847.0;1º el. pós RMI: 6.584962500721156;Nº el. pós RMI: 9.7262181593322;64 Threads;Tempo de execução: ;6987297450
+1º el. pré RMI: 268.0;Nº el. pré RMI: 85.0;1º el. pós RMI: 8.066089190457772;Nº el. pós RMI: 6.409390936137703;64 Threads;Tempo de execução: ;6847518971
+1º el. pré RMI: 112.0;Nº el. pré RMI: 991.0;1º el. pós RMI: 6.807354922057604;Nº el. pós RMI: 9.95274124718649;64 Threads;Tempo de execução: ;6846066908
+1º el. pré RMI: 526.0;Nº el. pré RMI: 420.0;1º el. pós RMI: 9.038918989292304;Nº el. pós RMI: 8.714245517666123;64 Threads;Tempo de execução: ;6913610678
+1º el. pré RMI: 476.0;Nº el. pré RMI: 200.0;1º el. pós RMI: 8.894817763307945;Nº el. pós RMI: 7.643856189774724;64 Threads;Tempo de execução: ;7045597827
+1º el. pré RMI: 683.0;Nº el. pré RMI: 884.0;1º el. pós RMI: 9.415741768290092;Nº el. pós RMI: 9.787902559391432;64 Threads;Tempo de execução: ;7260050594
+1º el. pré RMI: 881.0;Nº el. pré RMI: 910.0;1º el. pós RMI: 9.782998208920414;Nº el. pós RMI: 9.829722735086058;64 Threads;Tempo de execução: ;7096521201
+1º el. pré RMI: 609.0;Nº el. pré RMI: 854.0;1º el. pós RMI: 9.250298417906333;Nº el. pós RMI: 9.73809225962049;64 Threads;Tempo de execução: ;6602851235
+1º el. pré RMI: 145.0;Nº el. pré RMI: 990.0;1º el. pós RMI: 7.1799090900149345;Nº el. pós RMI: 9.951284714966972;64 Threads;Tempo de execução: ;6747667002
+1º el. pré RMI: 347.0;Nº el. pré RMI: 280.0;1º el. pós RMI: 8.43879185257826;Nº el. pós RMI: 8.129283016944965;64 Threads;Tempo de execução: ;6183483289
+1º el. pré RMI: 363.0;Nº el. pré RMI: 664.0;1º el. pós RMI: 8.50382573799575;Nº el. pós RMI: 9.375039431346925;64 Threads;Tempo de execução: ;6924299587
+1º el. pré RMI: 487.0;Nº el. pré RMI: 174.0;1º el. pós RMI: 8.927777962082342;Nº el. pós RMI: 7.442943495848729;64 Threads;Tempo de execução: ;6993624418
+1º el. pré RMI: 641.0;Nº el. pré RMI: 768.0;1º el. pós RMI: 9.324180546618742;Nº el. pós RMI: 9.584962500721156;64 Threads;Tempo de execução: ;6719872934
+1º el. pré RMI: 843.0;Nº el. pré RMI: 57.0;1º el. pós RMI: 9.719388820942083;Nº el. pós RMI: 5.832890014164742;64 Threads;Tempo de execução: ;7262626767
+1º el. pré RMI: 169.0;Nº el. pré RMI: 516.0;1º el. pós RMI: 7.400879436282184;Nº el. pós RMI: 9.011227255423254;64 Threads;Tempo de execução: ;6694606326
+1º el. pré RMI: 262.0;Nº el. pré RMI: 934.0;1º el. pós RMI: 8.03342300153745;Nº el. pós RMI: 9.867278739709663;64 Threads;Tempo de execução: ;8077199749
+1º el. pré RMI: 839.0;Nº el. pré RMI: 334.0;1º el. pós RMI: 9.712527000439824;Nº el. pós RMI: 8.383704292474054;64 Threads;Tempo de execução: ;6336628768
+1º el. pré RMI: 256.0;Nº el. pré RMI: 646.0;1º el. pós RMI: 8.0;Nº el. pós RMI: 9.335390354693924;64 Threads;Tempo de execução: ;6715680474
+1º el. pré RMI: 384.0;Nº el. pré RMI: 985.0;1º el. pós RMI: 8.584962500721156;Nº el. pós RMI: 9.943979914343739;64 Threads;Tempo de execução: ;6648265029
+
+
+Função Potência
+
+1º el. pré RMI: 222.0;Nº el. pré RMI: 611.0;1º el. pós RMI: 4.318147222684392E234;Nº el. pós RMI: 4.0190279295257257E278;64 Threads;Tempo de execução: ;9493184003
+1º el. pré RMI: 19.0;Nº el. pré RMI: 609.0;1º el. pós RMI: 7.505162419825198E127;Nº el. pós RMI: 2.8955379630372945E278;64 Threads;Tempo de execução: ;8239238481
+1º el. pré RMI: 994.0;Nº el. pré RMI: 272.0;1º el. pós RMI: 5.478207015323074E299;Nº el. pós RMI: 2.863455270173828E243;64 Threads;Tempo de execução: ;9344745569
+1º el. pré RMI: 889.0;Nº el. pré RMI: 553.0;1º el. pós RMI: 7.765619318702433E294;Nº el. pós RMI: 1.872893707275009E274;64 Threads;Tempo de execução: ;9527642384
+1º el. pré RMI: 480.0;Nº el. pré RMI: 110.0;1º el. pós RMI: 1.3308335400789695E268;Nº el. pós RMI: 1.378061233982227E204;64 Threads;Tempo de execução: ;7701513454
+1º el. pré RMI: 456.0;Nº el. pré RMI: 472.0;1º el. pós RMI: 7.879238861438112E265;Nº el. pós RMI: 2.4785624358541815E267;64 Threads;Tempo de execução: ;8367042782
+1º el. pré RMI: 801.0;Nº el. pré RMI: 715.0;1º el. pós RMI: 2.3080839894561975E290;Nº el. pós RMI: 2.695281808613578E285;64 Threads;Tempo de execução: ;8350511759
+1º el. pré RMI: 374.0;Nº el. pré RMI: 805.0;1º el. pós RMI: 1.937136481099002E257;Nº el. pós RMI: 3.7982892712264744E290;64 Threads;Tempo de execução: ;9728473978
+1º el. pré RMI: 679.0;Nº el. pré RMI: 146.0;1º el. pós RMI: 1.5380746985847008E283;Nº el. pós RMI: 2.7244922599210765E216;64 Threads;Tempo de execução: ;8023732804
+1º el. pré RMI: 223.0;Nº el. pré RMI: 530.0;1º el. pós RMI: 6.768404488755983E234;Nº el. pós RMI: 2.6766214874461237E272;64 Threads;Tempo de execução: ;8978762524
+1º el. pré RMI: 112.0;Nº el. pré RMI: 548.0;1º el. pós RMI: 8.352226572653501E204;Nº el. pós RMI: 7.5518933558184625E273;64 Threads;Tempo de execução: ;8470368749
+1º el. pré RMI: 365.0;Nº el. pré RMI: 544.0;1º el. pós RMI: 1.6954556957903287E256;Nº el. pós RMI: 3.62986079196254E273;64 Threads;Tempo de execução: ;7729339064
+1º el. pré RMI: 764.0;Nº el. pré RMI: 35.0;1º el. pós RMI: 2.0386180144023547E288;Nº el. pós RMI: 2.5515520672986852E154;64 Threads;Tempo de execução: ;8026404102
+1º el. pré RMI: 612.0;Nº el. pré RMI: 414.0;1º el. pós RMI: 4.7330622297217475E278;Nº el. pós RMI: 5.012266014206248E261;64 Threads;Tempo de execução: ;9111326830
+1º el. pré RMI: 312.0;Nº el. pré RMI: 134.0;1º el. pós RMI: 2.602911497990747E249;Nº el. pós RMI: 5.134283393863021E212;64 Threads;Tempo de execução: ;9221228257
+1º el. pré RMI: 633.0;Nº el. pré RMI: 146.0;1º el. pós RMI: 1.381563979718337E280;Nº el. pós RMI: 2.7244922599210765E216;64 Threads;Tempo de execução: ;8383117545
+1º el. pré RMI: 582.0;Nº el. pré RMI: 227.0;1º el. pós RMI: 3.1066939021802304E276;Nº el. pós RMI: 4.004845065643846E235;64 Threads;Tempo de execução: ;8852358643
+1º el. pré RMI: 199.0;Nº el. pré RMI: 425.0;1º el. pós RMI: 7.679052574179881E229;Nº el. pós RMI: 6.900697738425455E262;64 Threads;Tempo de execução: ;8292173821
+1º el. pré RMI: 850.0;Nº el. pré RMI: 801.0;1º el. pós RMI: 8.747673630108613E292;Nº el. pós RMI: 2.3080839894561975E290;64 Threads;Tempo de execução: ;7515837529
+1º el. pré RMI: 216.0;Nº el. pré RMI: 635.0;1º el. pós RMI: 2.7885286769598345E233;Nº el. pós RMI: 1.8939675298690217E280;64 Threads;Tempo de execução: ;8019739876
+
+
+Função Seno
+
+1º el. pré RMI: 725.0;Nº el. pré RMI: 234.0;1º el. pós RMI: 0.6502420383735517;Nº el. pós RMI: 0.9988166912028082;64 Threads;Tempo de execução: ;9451933540
+1º el. pré RMI: 646.0;Nº el. pré RMI: 363.0;1º el. pós RMI: -0.9200024119591381;Nº el. pós RMI: -0.9893538601694428;64 Threads;Tempo de execução: ;10662241928
+1º el. pré RMI: 360.0;Nº el. pré RMI: 452.0;1º el. pós RMI: 0.9589157234143065;Nº el. pós RMI: -0.3795798508807975;64 Threads;Tempo de execução: ;9404284662
+1º el. pré RMI: 414.0;Nº el. pré RMI: 478.0;1º el. pós RMI: -0.6367147631351318;Nº el. pós RMI: 0.45993025772913376;64 Threads;Tempo de execução: ;10348422345
+1º el. pré RMI: 566.0;Nº el. pré RMI: 195.0;1º el. pós RMI: 0.4910741133562503;Nº el. pós RMI: 0.21945466799406363;64 Threads;Tempo de execução: ;9166561601
+1º el. pré RMI: 730.0;Nº el. pré RMI: 522.0;1º el. pós RMI: 0.9129698518082046;Nº el. pós RMI: 0.4755767042996153;64 Threads;Tempo de execução: ;9593878012
+1º el. pré RMI: 704.0;Nº el. pré RMI: 154.0;1º el. pós RMI: 0.279473385115912;Nº el. pós RMI: -0.06192033725605731;64 Threads;Tempo de execução: ;9793506014
+1º el. pré RMI: 449.0;Nº el. pré RMI: 469.0;1º el. pós RMI: 0.2452227616305097;Nº el. pós RMI: -0.7849990633729202;64 Threads;Tempo de execução: ;9291110922
+1º el. pré RMI: 695.0;Nº el. pré RMI: 262.0;1º el. pós RMI: -0.6503336395770626;Nº el. pós RMI: -0.9482917095220488;64 Threads;Tempo de execução: ;8727377959
+1º el. pré RMI: 591.0;Nº el. pré RMI: 215.0;1º el. pós RMI: 0.37146007709824136;Nº el. pós RMI: 0.9802456219572225;64 Threads;Tempo de execução: ;9739696481
+1º el. pré RMI: 488.0;Nº el. pré RMI: 195.0;1º el. pós RMI: -0.8689806734225085;Nº el. pós RMI: 0.21945466799406363;64 Threads;Tempo de execução: ;9008512746
+1º el. pré RMI: 935.0;Nº el. pré RMI: 959.0;1º el. pós RMI: -0.9300727311045811;Nº el. pós RMI: -0.7272045781869426;64 Threads;Tempo de execução: ;9667421961
+1º el. pré RMI: 754.0;Nº el. pré RMI: 335.0;1º el. pós RMI: 0.01776220433321534;Nº el. pós RMI: 0.9129329489429682;64 Threads;Tempo de execução: ;9093031349
+1º el. pré RMI: 289.0;Nº el. pré RMI: 666.0;1º el. pós RMI: -0.026521020285755953;Nº el. pós RMI: -0.01764164581327013;64 Threads;Tempo de execução: ;9443022734
+1º el. pré RMI: 772.0;Nº el. pré RMI: 48.0;1º el. pós RMI: -0.7391400904300984;Nº el. pós RMI: -0.7682546613236668;64 Threads;Tempo de execução: ;9404018663
+1º el. pré RMI: 474.0;Nº el. pré RMI: 803.0;1º el. pós RMI: 0.3713761131017696;Nº el. pós RMI: -0.9482630021806919;64 Threads;Tempo de execução: ;9229842513
+1º el. pré RMI: 315.0;Nº el. pré RMI: 136.0;1º el. pós RMI: 0.7451332645574127;Nº el. pós RMI: -0.7904332067228887;64 Threads;Tempo de execução: ;9869315458
+1º el. pré RMI: 414.0;Nº el. pré RMI: 248.0;1º el. pós RMI: -0.6367147631351318;Nº el. pós RMI: 0.184752119221718;64 Threads;Tempo de execução: ;9313158140
+1º el. pré RMI: 446.0;Nº el. pré RMI: 817.0;1º el. pós RMI: -0.10595753713889097;Nº el. pós RMI: 0.1848409947348159;64 Threads;Tempo de execução: ;9832213080
+1º el. pré RMI: 93.0;Nº el. pré RMI: 57.0;1º el. pós RMI: -0.9482821412699473;Nº el. pós RMI: 0.43616475524782494;64 Threads;Tempo de execução: ;10034621207
+
+
+Função Média
+
+1º el. pré RMI: 115.0;Nº el. pré RMI: 68.0;Resultado RMI: 499.50175366996336;64 Threads;Tempo de execução: ;4000790050
+1º el. pré RMI: 50.0;Nº el. pré RMI: 266.0;Resultado RMI: 499.51034675995993;64 Threads;Tempo de execução: ;4343074618
+1º el. pré RMI: 349.0;Nº el. pré RMI: 238.0;Resultado RMI: 499.4903898999632;64 Threads;Tempo de execução: ;3240902453
+1º el. pré RMI: 821.0;Nº el. pré RMI: 176.0;Resultado RMI: 499.48594121995717;64 Threads;Tempo de execução: ;3636237838
+1º el. pré RMI: 518.0;Nº el. pré RMI: 550.0;Resultado RMI: 499.53383222996;64 Threads;Tempo de execução: ;3233678577
+1º el. pré RMI: 163.0;Nº el. pré RMI: 732.0;Resultado RMI: 499.5066349599583;64 Threads;Tempo de execução: ;3316927111
+1º el. pré RMI: 37.0;Nº el. pré RMI: 751.0;Resultado RMI: 499.52440401996125;64 Threads;Tempo de execução: ;3517737041
+1º el. pré RMI: 406.0;Nº el. pré RMI: 859.0;Resultado RMI: 499.5451308399598;64 Threads;Tempo de execução: ;3245835499
+1º el. pré RMI: 710.0;Nº el. pré RMI: 886.0;Resultado RMI: 499.52023415995956;64 Threads;Tempo de execução: ;3282768571
+1º el. pré RMI: 320.0;Nº el. pré RMI: 382.0;Resultado RMI: 499.4787807699606;64 Threads;Tempo de execução: ;3463590053
+1º el. pré RMI: 608.0;Nº el. pré RMI: 784.0;Resultado RMI: 499.51624304996096;64 Threads;Tempo de execução: ;3218949142
+1º el. pré RMI: 570.0;Nº el. pré RMI: 256.0;Resultado RMI: 499.4807318299611;64 Threads;Tempo de execução: ;3333124555
+1º el. pré RMI: 103.0;Nº el. pré RMI: 830.0;Resultado RMI: 499.50995630995686;64 Threads;Tempo de execução: ;3396736953
+1º el. pré RMI: 413.0;Nº el. pré RMI: 91.0;Resultado RMI: 499.4942898399605;64 Threads;Tempo de execução: ;3228495953
+1º el. pré RMI: 367.0;Nº el. pré RMI: 36.0;Resultado RMI: 499.5205157199581;64 Threads;Tempo de execução: ;3448673209
+1º el. pré RMI: 496.0;Nº el. pré RMI: 730.0;Resultado RMI: 499.51937454996;64 Threads;Tempo de execução: ;3264303897
+1º el. pré RMI: 412.0;Nº el. pré RMI: 132.0;Resultado RMI: 499.46125595996193;64 Threads;Tempo de execução: ;3434876204
+1º el. pré RMI: 672.0;Nº el. pré RMI: 996.0;Resultado RMI: 499.5343480599643;64 Threads;Tempo de execução: ;3170704042
+1º el. pré RMI: 325.0;Nº el. pré RMI: 57.0;Resultado RMI: 499.5879113499626;64 Threads;Tempo de execução: ;3527395081
+1º el. pré RMI: 310.0;Nº el. pré RMI: 835.0;Resultado RMI: 499.4392034199605;64 Threads;Tempo de execução: ;3293935971
+
+
+Função ContaMaiorQue
+
+1º el. pré RMI: 750.0;Nº el. pré RMI: 400.0;Resultado RMI: 4.9899794E7;64 Threads;Tempo de execução: ;3318618478
+1º el. pré RMI: 139.0;Nº el. pré RMI: 731.0;Resultado RMI: 4.9894344E7;64 Threads;Tempo de execução: ;3341496032
+1º el. pré RMI: 224.0;Nº el. pré RMI: 467.0;Resultado RMI: 4.9897394E7;64 Threads;Tempo de execução: ;3472910675
+1º el. pré RMI: 330.0;Nº el. pré RMI: 652.0;Resultado RMI: 4.9899148E7;64 Threads;Tempo de execução: ;3140916549
+1º el. pré RMI: 973.0;Nº el. pré RMI: 139.0;Resultado RMI: 4.9891985E7;64 Threads;Tempo de execução: ;3459305489
+1º el. pré RMI: 173.0;Nº el. pré RMI: 783.0;Resultado RMI: 4.9894799E7;64 Threads;Tempo de execução: ;3269838791
+1º el. pré RMI: 593.0;Nº el. pré RMI: 411.0;Resultado RMI: 4.9897305E7;64 Threads;Tempo de execução: ;3262318164
+1º el. pré RMI: 88.0;Nº el. pré RMI: 180.0;Resultado RMI: 4.9901824E7;64 Threads;Tempo de execução: ;3232769573
+1º el. pré RMI: 445.0;Nº el. pré RMI: 858.0;Resultado RMI: 4.9912833E7;64 Threads;Tempo de execução: ;3526663217
+1º el. pré RMI: 813.0;Nº el. pré RMI: 319.0;Resultado RMI: 4.98988E7;64 Threads;Tempo de execução: ;3166920272
+1º el. pré RMI: 580.0;Nº el. pré RMI: 2.0;Resultado RMI: 4.9906468E7;64 Threads;Tempo de execução: ;3293333303
+1º el. pré RMI: 309.0;Nº el. pré RMI: 193.0;Resultado RMI: 4.990053E7;64 Threads;Tempo de execução: ;3579680016
+1º el. pré RMI: 393.0;Nº el. pré RMI: 142.0;Resultado RMI: 4.9899373E7;64 Threads;Tempo de execução: ;3111350552
+1º el. pré RMI: 137.0;Nº el. pré RMI: 642.0;Resultado RMI: 4.9899564E7;64 Threads;Tempo de execução: ;3433137878
+1º el. pré RMI: 20.0;Nº el. pré RMI: 46.0;Resultado RMI: 4.9894508E7;64 Threads;Tempo de execução: ;3407282074
+1º el. pré RMI: 479.0;Nº el. pré RMI: 410.0;Resultado RMI: 4.9900439E7;64 Threads;Tempo de execução: ;3302830311
+1º el. pré RMI: 755.0;Nº el. pré RMI: 980.0;Resultado RMI: 4.9895584E7;64 Threads;Tempo de execução: ;3287376635
+1º el. pré RMI: 80.0;Nº el. pré RMI: 135.0;Resultado RMI: 4.9899857E7;64 Threads;Tempo de execução: ;3393241534
+1º el. pré RMI: 302.0;Nº el. pré RMI: 425.0;Resultado RMI: 4.9899172E7;64 Threads;Tempo de execução: ;3151543811
+1º el. pré RMI: 110.0;Nº el. pré RMI: 959.0;Resultado RMI: 4.9901066E7;64 Threads;Tempo de execução: ;3230429661
+
+
+Função ContaIntervalo
+
+1º el. pré RMI: 194.0;Nº el. pré RMI: 807.0;Resultado RMI: 2.5097995E7;64 Threads;Tempo de execução: ;3580332662
+1º el. pré RMI: 873.0;Nº el. pré RMI: 348.0;Resultado RMI: 2.5096315E7;64 Threads;Tempo de execução: ;3346283449
+1º el. pré RMI: 579.0;Nº el. pré RMI: 898.0;Resultado RMI: 2.5098282E7;64 Threads;Tempo de execução: ;3255621480
+1º el. pré RMI: 57.0;Nº el. pré RMI: 637.0;Resultado RMI: 2.5097477E7;64 Threads;Tempo de execução: ;3401074952
+1º el. pré RMI: 735.0;Nº el. pré RMI: 704.0;Resultado RMI: 2.5091725E7;64 Threads;Tempo de execução: ;3534027335
+1º el. pré RMI: 265.0;Nº el. pré RMI: 489.0;Resultado RMI: 2.5098639E7;64 Threads;Tempo de execução: ;3172212516
+1º el. pré RMI: 976.0;Nº el. pré RMI: 127.0;Resultado RMI: 2.5102737E7;64 Threads;Tempo de execução: ;3825496400
+1º el. pré RMI: 844.0;Nº el. pré RMI: 240.0;Resultado RMI: 2.509688E7;64 Threads;Tempo de execução: ;3207400213
+1º el. pré RMI: 127.0;Nº el. pré RMI: 590.0;Resultado RMI: 2.5097849E7;64 Threads;Tempo de execução: ;3557280566
+1º el. pré RMI: 386.0;Nº el. pré RMI: 133.0;Resultado RMI: 2.5099656E7;64 Threads;Tempo de execução: ;3164889479
+1º el. pré RMI: 961.0;Nº el. pré RMI: 235.0;Resultado RMI: 2.5101865E7;64 Threads;Tempo de execução: ;3390166407
+1º el. pré RMI: 651.0;Nº el. pré RMI: 947.0;Resultado RMI: 2.5100689E7;64 Threads;Tempo de execução: ;3176153997
+1º el. pré RMI: 934.0;Nº el. pré RMI: 829.0;Resultado RMI: 2.5095369E7;64 Threads;Tempo de execução: ;3416716751
+1º el. pré RMI: 550.0;Nº el. pré RMI: 419.0;Resultado RMI: 2.509911E7;64 Threads;Tempo de execução: ;3546783360
+1º el. pré RMI: 471.0;Nº el. pré RMI: 283.0;Resultado RMI: 2.5089905E7;64 Threads;Tempo de execução: ;3067722581
+1º el. pré RMI: 513.0;Nº el. pré RMI: 808.0;Resultado RMI: 2.5105148E7;64 Threads;Tempo de execução: ;3416724751
+1º el. pré RMI: 351.0;Nº el. pré RMI: 930.0;Resultado RMI: 2.5096022E7;64 Threads;Tempo de execução: ;3097641571
+1º el. pré RMI: 278.0;Nº el. pré RMI: 496.0;Resultado RMI: 2.510387E7;64 Threads;Tempo de execução: ;3176339468
+1º el. pré RMI: 564.0;Nº el. pré RMI: 164.0;Resultado RMI: 2.5100664E7;64 Threads;Tempo de execução: ;3207926401
+1º el. pré RMI: 592.0;Nº el. pré RMI: 959.0;Resultado RMI: 2.5093904E7;64 Threads;Tempo de execução: ;3121288111
